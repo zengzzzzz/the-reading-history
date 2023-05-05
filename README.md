@@ -6,3 +6,4 @@
 ## read
 
 ## unread
+- redis slow query : https://mp.weixin.qq.com/s/nNEuYw0NlYGhuKKKKoWfcQ
