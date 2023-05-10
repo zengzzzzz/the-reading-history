@@ -9,6 +9,9 @@
 ### discrete math
 - 2023-05-09 5.3.4
 
+### pyramid principle
+- 2023-05-10 1
+
 ## read
 
 ## unread
