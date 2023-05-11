@@ -12,7 +12,7 @@
 
 ### pyramid principle
 - 2023-05-10 chapter02
-- 2023-05-11 chapter03.3 
+- 2023-05-11 chapter03.3  4
 
 ## read
 
