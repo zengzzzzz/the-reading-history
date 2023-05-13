@@ -11,8 +11,9 @@
 - 2023-05-09 5.3.4
 
 ### pyramid principle
-- 2023-05-10 chapter02
-- 2023-05-11 chapter03.3  4
+- 2023-05-10 chapter 02
+- 2023-05-11 chapter 03.3  4
+- 2023-05-13 chapter 05.2
 
 ## read
 
