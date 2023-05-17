@@ -10,6 +10,7 @@
 
 ### discrete math
 - 2023-05-09 5.3.4
+- 2023-05-16 5.4
 
 ### pyramid principle
 - 2023-05-10 chapter 2
