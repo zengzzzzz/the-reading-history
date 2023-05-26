@@ -26,6 +26,7 @@
 - 2023-05-18 chapter 7
 - 2023-05-19 chapter 8 9
 - 2023-05-21 chapter 9.3
+- 2023-05-26 chapter 10
 
 ## read
 
