@@ -28,6 +28,7 @@
 - 2023-05-21 chapter 9.3
 - 2023-05-26 chapter 10
 - 2023-05-29 chapter 11
+- 2023-05-29 chapter 12
 
 ## read
 - th art of the awkward 1 to 1: https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c
