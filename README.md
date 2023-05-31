@@ -12,6 +12,7 @@
 - 2023-05-22  8.6
 - 2023-05-23  8.8
 - 2023-05-29  8.10
+- 2023-05-30  9.4
 
 ### discrete math
 
@@ -30,6 +31,7 @@
 - 2023-05-26 chapter 10
 - 2023-05-29 chapter 11
 - 2023-05-29 chapter 12
+- 2023-05-30 2
 
 ## read
 - th art of the awkward 1 to 1: https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c  2023-05-29
