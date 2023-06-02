@@ -15,6 +15,7 @@
 - 2023-05-30  9.4
 - 2023-06-01  10
 - 2023-06-02  10.4
+- 2023-06-02  10.7
 
 ### discrete math
 
@@ -39,7 +40,7 @@
 - 2023-05-29 chapter 11
 - 2023-05-29 chapter 12
 - 2023-05-30 2
-- 2023-06-02 comlete
+- 2023-06-02 complete
 
 ## unread
 - redis slow query : https://mp.weixin.qq.com/s/nNEuYw0NlYGhuKKKKoWfcQ
