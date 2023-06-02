@@ -14,6 +14,7 @@
 - 2023-05-29  8.10
 - 2023-05-30  9.4
 - 2023-06-01  10
+- 2023-06-02  10.4
 
 ### discrete math
 
@@ -23,6 +24,8 @@
 - 2023-05-31 6
 - 2023-06-01 6.2
 
+## read
+- th art of the awkward 1 to 1: https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c  2023-05-29
 ### pyramid principle
 - 2023-05-10 chapter 2
 - 2023-05-11 chapter 3.3  4
@@ -36,9 +39,7 @@
 - 2023-05-29 chapter 11
 - 2023-05-29 chapter 12
 - 2023-05-30 2
-
-## read
-- th art of the awkward 1 to 1: https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c  2023-05-29
+- 2023-06-02 comlete
 
 ## unread
 - redis slow query : https://mp.weixin.qq.com/s/nNEuYw0NlYGhuKKKKoWfcQ
