@@ -41,6 +41,7 @@
 - 2023-05-29 chapter 12
 - 2023-05-30 2
 - 2023-06-02 complete
+- 2023-06-03 conclusion
 
 ## unread
 - redis slow query : https://mp.weixin.qq.com/s/nNEuYw0NlYGhuKKKKoWfcQ
