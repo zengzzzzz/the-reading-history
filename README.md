@@ -25,6 +25,7 @@
 - 2023-05-31 5.5.5
 - 2023-05-31 6
 - 2023-06-01 6.2
+- 2023-06-07 6.4.1
 
 ## read
 - th art of the awkward 1 to 1: https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c  2023-05-29
