@@ -1,6 +1,5 @@
 ## reading
 ### discrete math
-
 - 2023-05-09 5.3.4
 - 2023-05-17 5.4
 - 2023-05-31 5.5.5
@@ -8,6 +7,7 @@
 - 2023-06-01 6.2
 - 2023-06-07 6.4.1
 - 2023-06-13 6.6
+- 2023-06-16 7
 
 ## read
 - th art of the awkward 1 to 1: https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c  2023-05-29
