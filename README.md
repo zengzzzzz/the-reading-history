@@ -49,3 +49,4 @@
 ## unread
 - redis slow query : https://mp.weixin.qq.com/s/nNEuYw0NlYGhuKKKKoWfcQ
 - others reading record : https://mp.weixin.qq.com/s/8qxPItVjEGeKarpGpXtO2w
+- ali architecture : https://mp.weixin.qq.com/s/AkNuuHjguqm9aT4U4IXDFA
