@@ -11,6 +11,7 @@
 - 2023-06-20 7.2.8
 - 2023-06-24 8
 - 2023-06-24 8.2
+- 2023-06-28 8.5
 
 ## read
 - th art of the awkward 1 to 1: https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c  2023-05-29
