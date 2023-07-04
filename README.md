@@ -15,6 +15,7 @@
 - 2023-06-29 8.6
 
 ## read
+- 错排问题 （容斥原理 递归推导）2023-07-04
 - th art of the awkward 1 to 1: https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c  2023-05-29
 ### pyramid principle
 - 2023-05-10 chapter 2
@@ -50,7 +51,6 @@
 - 2023-06-05  12
 - 2023-06-05  12.7
 - 2023-06-16  13
-  
 ## unread
 - redis slow query : https://mp.weixin.qq.com/s/nNEuYw0NlYGhuKKKKoWfcQ
 - others reading record : https://mp.weixin.qq.com/s/8qxPItVjEGeKarpGpXtO2w
