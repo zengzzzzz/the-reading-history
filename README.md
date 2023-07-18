@@ -22,7 +22,8 @@
 ## read
 - 错排问题 （容斥原理 递归推导）2023-07-04
 - th art of the awkward 1 to 1: https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c  2023-05-29
-- https://github.com/mengjian-github/copilot-analysis 2023-05-11
+- copilot analysis: https://github.com/mengjian-github/copilot-analysis 2023-05-11
+- MQ accumulation problem troubleshooting: https://mp.weixin.qq.com/s/MQdwf4yEl73Br2FvJd5ExQ
 ### pyramid principle
 - 2023-05-10 chapter 2
 - 2023-05-11 chapter 3.3  4
@@ -61,3 +62,4 @@
 - redis slow query : https://mp.weixin.qq.com/s/nNEuYw0NlYGhuKKKKoWfcQ
 - others reading record : https://mp.weixin.qq.com/s/8qxPItVjEGeKarpGpXtO2w
 - ali architecture : https://mp.weixin.qq.com/s/AkNuuHjguqm9aT4U4IXDFA
+
