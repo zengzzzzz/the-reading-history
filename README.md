@@ -22,6 +22,7 @@
 - 2023-07-16 6
 
 ## read
+- 阿里10年成长 ： https://mp.weixin.qq.com/s/hqO_DCCtxmw7R55jSSA7rA 2023-07-28
 - Linkedin protocol buffer: https://engineering.linkedin.com/blog/2023/linkedin-integrates-protocol-buffers-with-rest-li-for-improved-m 2023-07-25
 - MQ accumulation problem troubleshooting: https://mp.weixin.qq.com/s/MQdwf4yEl73Br2FvJd5ExQ 2023-07-20
 - 错排问题 （容斥原理 递归推导）2023-07-04
