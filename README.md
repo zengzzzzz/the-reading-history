@@ -23,6 +23,7 @@
 ### 高效能人士七个习惯
 - 2023-07-28 第三部分
 - 2023-07-28 完结
+- 2023-08-02 整理x mind
 
 ## read
 - 阿里10年成长 ： https://mp.weixin.qq.com/s/hqO_DCCtxmw7R55jSSA7rA 2023-07-28
