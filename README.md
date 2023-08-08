@@ -26,6 +26,7 @@
 ### nginx 核心知识
 - 2023-07-16 6
 - 2023-08-07 10
+- 2023-08-08 12
 
 ## read
 - 阿里10年成长 ： https://mp.weixin.qq.com/s/hqO_DCCtxmw7R55jSSA7rA 2023-07-28
