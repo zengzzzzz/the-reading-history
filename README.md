@@ -44,6 +44,7 @@
 - th art of the awkward 1 to 1: https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c  2023-05-29
 - copilot analysis: https://github.com/mengjian-github/copilot-analysis 2023-05-11
 - envoy load balance;: https://blog.envoyproxy.io/examining-load-balancing-algorithms-with-envoy-1be643ea121c 2023-08-21
+- envoy proxy: https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236 2023-08-21
 
 ### pyramid principle
 - 2023-05-10 chapter 2
