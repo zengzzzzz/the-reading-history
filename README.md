@@ -21,6 +21,7 @@
 - envoy load balance;: https://blog.envoyproxy.io/examining-load-balancing-algorithms-with-envoy-1be643ea121c 2023-08-21
 - envoy proxy: https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236  complete 2023-08-22
 - self awareness upgrade ： https://mp.weixin.qq.com/s/Spt2RNf5nEdIzu5h5O-0Ug  2023-08-25
+- Load Balancer vs. Reverse Proxy vs. API Gateway ：https://medium.com/geekculture/load-balancer-vs-reverse-proxy-vs-api-gateway-e9ec5809180c 2023-08-30
 ### pyramid principle
 - 2023-05-10 chapter 2
 - 2023-05-11 chapter 3.3  4
