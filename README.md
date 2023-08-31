@@ -15,21 +15,21 @@
 - 2023-08-30 2.14
 
 ## read
-- The mythical 10x programmer： http://antirez.com/news/112
-- skiplist survey ：https://mp.weixin.qq.com/s/BPTrtRs_rQNCUmK05jO9aQ
-- golang perfomance optimize：https://mp.weixin.qq.com/s/UHaCLhiIyLYVrba-nEUONA
-- c++ 20 coroutine：https://zhuanlan.zhihu.com/p/498253158
-- ali the code of personal growth：https://mp.weixin.qq.com/s/UWXxz03AevZrI1qNfC7WZA
-- 阿里10年成长 ： https://mp.weixin.qq.com/s/hqO_DCCtxmw7R55jSSA7rA 2023-07-28
-- Linkedin protocol buffer: https://engineering.linkedin.com/blog/2023/linkedin-integrates-protocol-buffers-with-rest-li-for-improved-m 2023-07-25
-- MQ accumulation problem troubleshooting: https://mp.weixin.qq.com/s/MQdwf4yEl73Br2FvJd5ExQ 2023-07-20
-- 错排问题 （容斥原理 递归推导）2023-07-04
-- th art of the awkward 1 to 1: https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c  2023-05-29
-- copilot analysis: https://github.com/mengjian-github/copilot-analysis 2023-05-11
-- envoy load balance;: https://blog.envoyproxy.io/examining-load-balancing-algorithms-with-envoy-1be643ea121c 2023-08-21
-- envoy proxy: https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236  complete 2023-08-22
-- self awareness upgrade ： https://mp.weixin.qq.com/s/Spt2RNf5nEdIzu5h5O-0Ug  2023-08-25
-- Load Balancer vs. Reverse Proxy vs. API Gateway ：https://medium.com/geekculture/load-balancer-vs-reverse-proxy-vs-api-gateway-e9ec5809180c 2023-08-30
+1. [The mythical 10x programmer](http://antirez.com/news/112)
+2. [kiplist survey](https://mp.weixin.qq.com/s/BPTrtRs_rQNCUmK05jO9aQ)
+3. [Golang Performance Optimization](https://mp.weixin.qq.com/s/UHaCLhiIyLYVrba-nEUONA)
+4. [C++20 Coroutines](https://zhuanlan.zhihu.com/p/498253158)
+5. [Ali: The Code of Personal Growth](https://mp.weixin.qq.com/s/UWXxz03AevZrI1qNfC7WZA)
+6. [阿里10年成长](https://mp.weixin.qq.com/s/hqO_DCCtxmw7R55jSSA7rA) (2023-07-28)
+7. [LinkedIn Protocol Buffers Integration](https://engineering.linkedin.com/blog/2023/linkedin-integrates-protocol-buffers-with-rest-li-for-improved-m) (2023-07-25)
+8. [MQ Accumulation Problem Troubleshooting](https://mp.weixin.qq.com/s/MQdwf4yEl73Br2FvJd5ExQ) (2023-07-20)
+9. 错排问题 (容斥原理 递归推导) (2023-07-04)
+10. [The Art of the Awkward 1 to 1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c) (2023-05-29)
+11. [Copilot Analysis](https://github.com/mengjian-github/copilot-analysis) (2023-05-11)
+12. [Envoy Load Balancing Algorithms](https://blog.envoyproxy.io/examining-load-balancing-algorithms-with-envoy-1be643ea121c) (2023-08-21)
+13. [Introduction to Modern Network Load Balancing and Proxying with Envoy](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236) (2023-08-22)
+14. [Self Awareness Upgrade](https://mp.weixin.qq.com/s/Spt2RNf5nEdIzu5h5O-0Ug) (2023-08-25)
+15. [Load Balancer vs. Reverse Proxy vs. API Gateway](https://medium.com/geekculture/load-balancer-vs-reverse-proxy-vs-api-gateway-e9ec5809180c) (2023-08-30)
 ### ddia
 ### 阅读与写作讲义
 ### 比较政治学
@@ -112,10 +112,10 @@
 - 2023-08-29 complete
   
 ## unread
-- redis slow query : https://mp.weixin.qq.com/s/nNEuYw0NlYGhuKKKKoWfcQ
-- others reading record : https://mp.weixin.qq.com/s/8qxPItVjEGeKarpGpXtO2w
-- ali architecture : https://mp.weixin.qq.com/s/AkNuuHjguqm9aT4U4IXDFA
-- ali rapid personal growth ：https://mp.weixin.qq.com/s/rGdaNTOU_0uY4ivUnpHzzg
+1. [Redis Slow Query](https://mp.weixin.qq.com/s/nNEuYw0NlYGhuKKKKoWfcQ)
+2. [Others Reading Record](https://mp.weixin.qq.com/s/8qxPItVjEGeKarpGpXtO2w)
+3. [Ali Architecture](https://mp.weixin.qq.com/s/AkNuuHjguqm9aT4U4IXDFA)
+4. [Ali Rapid Personal Growth](https://mp.weixin.qq.com/s/rGdaNTOU_0uY4ivUnpHzzg)
 - 纳瓦尔宝典
 - 算法导论
 - 福格行为模型
