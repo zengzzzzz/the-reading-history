@@ -15,6 +15,7 @@
 - 2023-08-30 2.14
 
 ## read
+
 1. [The mythical 10x programmer](http://antirez.com/news/112)
 2. [kiplist survey](https://mp.weixin.qq.com/s/BPTrtRs_rQNCUmK05jO9aQ)
 3. [Golang Performance Optimization](https://mp.weixin.qq.com/s/UHaCLhiIyLYVrba-nEUONA)
@@ -30,6 +31,7 @@
 13. [Introduction to Modern Network Load Balancing and Proxying with Envoy](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236) (2023-08-22)
 14. [Self Awareness Upgrade](https://mp.weixin.qq.com/s/Spt2RNf5nEdIzu5h5O-0Ug) (2023-08-25)
 15. [Load Balancer vs. Reverse Proxy vs. API Gateway](https://medium.com/geekculture/load-balancer-vs-reverse-proxy-vs-api-gateway-e9ec5809180c) (2023-08-30)
+
 ### ddia
 ### 阅读与写作讲义
 ### 比较政治学
@@ -112,11 +114,13 @@
 - 2023-08-29 complete
   
 ## unread
+
 1. [Redis Slow Query](https://mp.weixin.qq.com/s/nNEuYw0NlYGhuKKKKoWfcQ)
 2. [Others Reading Record](https://mp.weixin.qq.com/s/8qxPItVjEGeKarpGpXtO2w)
 3. [Ali Architecture](https://mp.weixin.qq.com/s/AkNuuHjguqm9aT4U4IXDFA)
 4. [Ali Rapid Personal Growth](https://mp.weixin.qq.com/s/rGdaNTOU_0uY4ivUnpHzzg)
-- 纳瓦尔宝典
-- 算法导论
-- 福格行为模型
+
+### 纳瓦尔宝典
+### 算法导论
+### 福格行为模型
 
