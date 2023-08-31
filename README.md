@@ -13,6 +13,11 @@
 - 2023-08-30 2.14
 
 ## read
+- The mythical 10x programmer： http://antirez.com/news/112
+- skiplist survey ：https://mp.weixin.qq.com/s/BPTrtRs_rQNCUmK05jO9aQ
+- golang perfomance optimize：https://mp.weixin.qq.com/s/UHaCLhiIyLYVrba-nEUONA
+- c++ 20 coroutine：https://zhuanlan.zhihu.com/p/498253158
+- ali the code of personal growth：https://mp.weixin.qq.com/s/UWXxz03AevZrI1qNfC7WZA
 - 阿里10年成长 ： https://mp.weixin.qq.com/s/hqO_DCCtxmw7R55jSSA7rA 2023-07-28
 - Linkedin protocol buffer: https://engineering.linkedin.com/blog/2023/linkedin-integrates-protocol-buffers-with-rest-li-for-improved-m 2023-07-25
 - MQ accumulation problem troubleshooting: https://mp.weixin.qq.com/s/MQdwf4yEl73Br2FvJd5ExQ 2023-07-20
@@ -23,6 +28,12 @@
 - envoy proxy: https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236  complete 2023-08-22
 - self awareness upgrade ： https://mp.weixin.qq.com/s/Spt2RNf5nEdIzu5h5O-0Ug  2023-08-25
 - Load Balancer vs. Reverse Proxy vs. API Gateway ：https://medium.com/geekculture/load-balancer-vs-reverse-proxy-vs-api-gateway-e9ec5809180c 2023-08-30
+### ddia
+### 阅读与写作讲义
+### 比较政治学
+### 俩次全球大危机比较研究
+### 人类群星闪耀时
+### 飞轮效应
 ### pyramid principle
 - 2023-05-10 chapter 2
 - 2023-05-11 chapter 3.3  4
@@ -61,7 +72,7 @@
 - 2023-07-28 第三部分
 - 2023-07-28 完结
 - 2023-08-02 整理x mind
-### discrete math
+### discrete math（version 7）
 - 2023-05-09 5.3.4
 - 2023-05-17 5.4
 - 2023-05-31 5.5.5
@@ -98,4 +109,7 @@
 - redis slow query : https://mp.weixin.qq.com/s/nNEuYw0NlYGhuKKKKoWfcQ
 - others reading record : https://mp.weixin.qq.com/s/8qxPItVjEGeKarpGpXtO2w
 - ali architecture : https://mp.weixin.qq.com/s/AkNuuHjguqm9aT4U4IXDFA
+- ali rapid personal growth ：https://mp.weixin.qq.com/s/rGdaNTOU_0uY4ivUnpHzzg
+- 纳瓦尔宝典
+- 算法导论
 
