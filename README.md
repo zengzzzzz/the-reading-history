@@ -112,4 +112,5 @@
 - ali rapid personal growth ：https://mp.weixin.qq.com/s/rGdaNTOU_0uY4ivUnpHzzg
 - 纳瓦尔宝典
 - 算法导论
+- 福格行为模型
 
