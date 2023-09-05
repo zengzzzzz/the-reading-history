@@ -131,3 +131,7 @@
 ### Getting More
 ### the architecture of open source application
 
+## blog
+- https://ciechanow.ski/archives/
+- https://mitchellh.com/
+
