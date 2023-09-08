@@ -125,6 +125,8 @@
 2. [Others Reading Record](https://mp.weixin.qq.com/s/8qxPItVjEGeKarpGpXtO2w)
 3. [Ali Architecture](https://mp.weixin.qq.com/s/AkNuuHjguqm9aT4U4IXDFA)
 4. [Ali Rapid Personal Growth](https://mp.weixin.qq.com/s/rGdaNTOU_0uY4ivUnpHzzg)
+5. [Ali distributed system ](https://mp.weixin.qq.com/s/cGcm2itsCi9NBUP1hkom_w)
+6. [TLS CA](https://www.kawabangga.com/posts/5330)
 
 ### 纳瓦尔宝典
 ### 算法导论
