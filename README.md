@@ -35,6 +35,7 @@
 13. [Introduction to Modern Network Load Balancing and Proxying with Envoy](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236) (2023-08-22)
 14. [Self Awareness Upgrade](https://mp.weixin.qq.com/s/Spt2RNf5nEdIzu5h5O-0Ug) (2023-08-25)
 15. [Load Balancer vs. Reverse Proxy vs. API Gateway](https://medium.com/geekculture/load-balancer-vs-reverse-proxy-vs-api-gateway-e9ec5809180c) (2023-08-30)
+16. [Distracted By Social Media](https://medium.com/accelerated-intelligence/while-everyone-is-distracted-by-social-media-successful-people-double-down-on-a-totally-underrated-5a86701e9a27) (2023-09-11)
 
 ### ddia
 ### 阅读与写作讲义
