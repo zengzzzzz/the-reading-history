@@ -17,6 +17,7 @@
 - 2023-09-03 3.20
 - 2023-09-04 3.21
 - 2023-09-06 4.27
+- 2023-09-13 4.28
 
 ## read
 
@@ -129,6 +130,7 @@
 4. [Ali Rapid Personal Growth](https://mp.weixin.qq.com/s/rGdaNTOU_0uY4ivUnpHzzg)
 5. [Ali distributed system ](https://mp.weixin.qq.com/s/cGcm2itsCi9NBUP1hkom_w)
 6. [TLS CA](https://www.kawabangga.com/posts/5330)
+7. [how to nurture others](https://mp.weixin.qq.com/s/wPX1Fb8wpeCpEpciDf7JZw)
 
 ### 纳瓦尔宝典
 ### 算法导论
