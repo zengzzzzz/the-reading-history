@@ -135,6 +135,7 @@
 5. [Ali distributed system ](https://mp.weixin.qq.com/s/cGcm2itsCi9NBUP1hkom_w)
 6. [TLS CA](https://www.kawabangga.com/posts/5330)
 7. [how to nurture others](https://mp.weixin.qq.com/s/wPX1Fb8wpeCpEpciDf7JZw)
+8. [Redis slow QUery 2.0](https://mp.weixin.qq.com/s/trbGNYZPEfzaAMz6kZ_YKg)
 
 ### 纳瓦尔宝典
 ### 算法导论
