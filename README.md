@@ -125,7 +125,7 @@
 - 2023-09-14 5
 - 2023-09-14 5.38
 - 2023-09-15 complete
-
+- 2023-09-16 x-mind complete
 ## unread
 
 1. [Redis Slow Query](https://mp.weixin.qq.com/s/nNEuYw0NlYGhuKKKKoWfcQ)
