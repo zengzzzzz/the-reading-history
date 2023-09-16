@@ -30,7 +30,7 @@
 15. [Load Balancer vs. Reverse Proxy vs. API Gateway](https://medium.com/geekculture/load-balancer-vs-reverse-proxy-vs-api-gateway-e9ec5809180c) (2023-08-30)
 16. [Distracted By Social Media](https://medium.com/accelerated-intelligence/while-everyone-is-distracted-by-social-media-successful-people-double-down-on-a-totally-underrated-5a86701e9a27) (2023-09-11)
 17. [Logic of system analysis and design](https://mp.weixin.qq.com/s/cGcm2itsCi9NBUP1hkom_w)(2023-09-16)
-18. [Application of structured expression of pyramid principle](https://mp.weixin.qq.com/s/ZwC3QxKoCYiOxm1le5dV3A)(2023-09-17)
+18. [Application of structured expression of pyramid principle](https://mp.weixin.qq.com/s/ZwC3QxKoCYiOxm1le5dV3A)(2023-09-17
 
 ### ddia
 ### 阅读与写作讲义
