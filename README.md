@@ -136,6 +136,7 @@
 5. [TLS CA](https://www.kawabangga.com/posts/5330)
 6. [how to nurture others](https://mp.weixin.qq.com/s/wPX1Fb8wpeCpEpciDf7JZw)
 7. [Redis slow QUery 2.0](https://mp.weixin.qq.com/s/trbGNYZPEfzaAMz6kZ_YKg)
+8. [Application of structured expression of pyramid principle](https://mp.weixin.qq.com/s/ZwC3QxKoCYiOxm1le5dV3A)
 
 ### 纳瓦尔宝典
 ### 算法导论
