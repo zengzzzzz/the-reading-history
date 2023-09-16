@@ -30,6 +30,7 @@
 15. [Load Balancer vs. Reverse Proxy vs. API Gateway](https://medium.com/geekculture/load-balancer-vs-reverse-proxy-vs-api-gateway-e9ec5809180c) (2023-08-30)
 16. [Distracted By Social Media](https://medium.com/accelerated-intelligence/while-everyone-is-distracted-by-social-media-successful-people-double-down-on-a-totally-underrated-5a86701e9a27) (2023-09-11)
 17. [Logic of system analysis and design](https://mp.weixin.qq.com/s/cGcm2itsCi9NBUP1hkom_w)(2023-09-16)
+18. [Application of structured expression of pyramid principle](https://mp.weixin.qq.com/s/ZwC3QxKoCYiOxm1le5dV3A)(2023-09-17)
 
 ### ddia
 ### 阅读与写作讲义
@@ -129,6 +130,7 @@
 - 2023-09-14 5.38
 - 2023-09-15 complete
 - 2023-09-16 x-mind complete
+
 ## unread
 
 1. [Redis Slow Query](https://mp.weixin.qq.com/s/nNEuYw0NlYGhuKKKKoWfcQ)
@@ -138,7 +140,6 @@
 5. [TLS CA](https://www.kawabangga.com/posts/5330)
 6. [how to nurture others](https://mp.weixin.qq.com/s/wPX1Fb8wpeCpEpciDf7JZw)
 7. [Redis slow QUery 2.0](https://mp.weixin.qq.com/s/trbGNYZPEfzaAMz6kZ_YKg)
-8. [Application of structured expression of pyramid principle](https://mp.weixin.qq.com/s/ZwC3QxKoCYiOxm1le5dV3A)
 
 ### 纳瓦尔宝典
 ### 算法导论
