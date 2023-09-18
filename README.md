@@ -140,6 +140,7 @@
 5. [TLS CA](https://www.kawabangga.com/posts/5330)
 6. [how to nurture others](https://mp.weixin.qq.com/s/wPX1Fb8wpeCpEpciDf7JZw)
 7. [Redis slow QUery 2.0](https://mp.weixin.qq.com/s/trbGNYZPEfzaAMz6kZ_YKg)
+8. [the function of growth](https://mp.weixin.qq.com/s/rGdaNTOU_0uY4ivUnpHzzg)
 
 ### 纳瓦尔宝典
 ### 算法导论
