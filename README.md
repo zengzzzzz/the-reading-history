@@ -11,9 +11,6 @@
 
 ### the architecture of open source application
 
-### 完全写作指南
-- 2023-09-19 2.3
-
 ## read
 
 1. [The mythical 10x programmer](http://antirez.com/news/112)
@@ -133,6 +130,9 @@
 - 2023-09-14 5.38
 - 2023-09-15 complete
 - 2023-09-16 x-mind complete
+
+### 完全写作指南
+- 2023-09-19 comlete  x-mind complete
 
 ## unread
 
