@@ -153,9 +153,8 @@
 6. [how to nurture others](https://mp.weixin.qq.com/s/wPX1Fb8wpeCpEpciDf7JZw)
 7. [Redis slow QUery 2.0](https://mp.weixin.qq.com/s/trbGNYZPEfzaAMz6kZ_YKg)
 8. [the function of growth](https://mp.weixin.qq.com/s/rGdaNTOU_0uY4ivUnpHzzg)
-9. [redis distributed lock] (https://mp.weixin.qq.com/s/O8o31rRBVL1DwK-JfmurRw)
-10. [Why Is SQLite Coded In C] (https://www.sqlite.org/whyc.html)
-11. 
+9. [redis distributed lock](https://mp.weixin.qq.com/s/O8o31rRBVL1DwK-JfmurRw)
+10. [Why Is SQLite Coded In C](https://www.sqlite.org/whyc.html)
 
 ### 纳瓦尔宝典
 ### 算法导论
