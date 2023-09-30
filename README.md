@@ -19,13 +19,14 @@
 ### 麦肯锡教我的写作武器
 - 2023-09-25 2
 - 2023-09-28 3
+- 2023-09-29 3.5
 
 ## read
 
 1. [The mythical 10x programmer](http://antirez.com/news/112)
 2. [kiplist survey](https://mp.weixin.qq.com/s/BPTrtRs_rQNCUmK05jO9aQ)
 3. [Golang Performance Optimization](https://mp.weixin.qq.com/s/UHaCLhiIyLYVrba-nEUONA)
-4. [C++20 Coroutines](https://zhuanlan.zhihu.com/p/498253158)
+4. [C++20 Coroutines](https://zhuanlan.zhihu.com/p/5498253158)
 5. [Ali: The Code of Personal Growth](https://mp.weixin.qq.com/s/UWXxz03AevZrI1qNfC7WZA)
 6. [阿里10年成长](https://mp.weixin.qq.com/s/hqO_DCCtxmw7R55jSSA7rA) (2023-07-28)
 7. [LinkedIn Protocol Buffers Integration](https://engineering.linkedin.com/blog/2023/linkedin-integrates-protocol-buffers-with-rest-li-for-improved-m) (2023-07-25)
