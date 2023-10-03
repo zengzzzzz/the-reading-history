@@ -43,6 +43,7 @@
 17. [Logic of system analysis and design](https://mp.weixin.qq.com/s/cGcm2itsCi9NBUP1hkom_w)(2023-09-16)
 18. [Application of structured expression of pyramid principle](https://mp.weixin.qq.com/s/ZwC3QxKoCYiOxm1le5dV3A)(2023-09-17）
 19. [TLS CA](https://www.kawabangga.com/posts/5330) （2023-09-24）
+20. [writing an os in go the bootloader](https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader) （2023-10-03）
 
 ### ddia
 ### 阅读与写作讲义
