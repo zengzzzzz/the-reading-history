@@ -16,14 +16,6 @@
 
 ### the architecture of open source application
 
-### 麦肯锡教我的写作武器
-- 2023-09-25 2
-- 2023-09-28 3
-- 2023-09-29 3.5
-- 2023-10-03 4
-- 2023-10-04 5.7
-- 2023-10-05 complete
-
 ## read
 
 1. [The mythical 10x programmer](http://antirez.com/news/112)
@@ -160,6 +152,14 @@
 - 2023-09-28 19.7
 - 2023-09-28 complete
 - 2023-09-30 x-mind complete
+
+### 麦肯锡教我的写作武器
+- 2023-09-25 2
+- 2023-09-28 3
+- 2023-09-29 3.5
+- 2023-10-03 4
+- 2023-10-04 5.7
+- 2023-10-05 complete
 
 ## unread
 
