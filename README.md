@@ -162,6 +162,9 @@
 - 2023-10-05 complete
 - 2023-10-07 x-mind complete
 
+### 论持久战
+-2023-10-07 complete
+
 ## unread
 
 1. [Redis Slow Query](https://mp.weixin.qq.com/s/nNEuYw0NlYGhuKKKKoWfcQ)
