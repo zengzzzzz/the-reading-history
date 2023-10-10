@@ -16,6 +16,7 @@
 
 ### Algorithm diagram
 - 2023-10-09 1
+- 2023-10-10 2
 
 ### the architecture of open source application
 
