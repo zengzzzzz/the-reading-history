@@ -42,6 +42,7 @@
 18. [Application of structured expression of pyramid principle](https://mp.weixin.qq.com/s/ZwC3QxKoCYiOxm1le5dV3A)(2023-09-17）
 19. [TLS CA](https://www.kawabangga.com/posts/5330) （2023-09-24）
 20. [writing an os in go the bootloader](https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader)（2023-10-03）
+21. [how-to-interview-a-person-for-two-years](https://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/)(2023-10-11)
 
 ### ddia
 ### 阅读与写作讲义
@@ -190,4 +191,5 @@
 ## blog
 - https://ciechanow.ski/archives/
 - https://mitchellh.com/
+- https://mindhacks.cn/
 
