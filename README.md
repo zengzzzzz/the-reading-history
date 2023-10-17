@@ -197,4 +197,5 @@
 - https://ciechanow.ski/archives/
 - https://mitchellh.com/
 - https://mindhacks.cn/
+- https://martinfowler.com/
 
