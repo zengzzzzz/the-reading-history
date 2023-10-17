@@ -49,6 +49,7 @@
 22. [Going from Developer to CEO: Chronosphere](https://newsletter.pragmaticengineer.com/p/going-from-developer-to-ceo-chronosphere?utm_campaign=email-half-post&r=257u8n&utm_source=substack&utm_medium=email)(2023-10-13)
 23. [The Difference Between API Gateways and Service Mesh](https://konghq.com/blog/enterprise/the-difference-between-api-gateways-and-service-mesh)(2023-10-16)
 24. [CircuitBreaker](https://martinfowler.com/bliki/CircuitBreaker.html) (2023-10-17)
+25. [How to remember what you read](https://fs.blog/remember-books/) (2023-10-17)
 
 ### ddia
 ### 阅读与写作讲义
