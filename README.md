@@ -51,6 +51,7 @@
 23. [The Difference Between API Gateways and Service Mesh](https://konghq.com/blog/enterprise/the-difference-between-api-gateways-and-service-mesh)(2023-10-16)
 24. [CircuitBreaker](https://martinfowler.com/bliki/CircuitBreaker.html) (2023-10-17)
 25. [How to remember what you read](https://fs.blog/remember-books/) (2023-10-17)
+26. [Why You Should Start Blogging Now](https://mindhacks.cn/2009/02/15/why-you-should-start-blogging-now/) (2023-10-19)
 
 ### ddia
 ### 阅读与写作讲义
