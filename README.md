@@ -52,6 +52,7 @@
 24. [CircuitBreaker](https://martinfowler.com/bliki/CircuitBreaker.html) (2023-10-17)
 25. [How to remember what you read](https://fs.blog/remember-books/) (2023-10-17)
 26. [Why You Should Start Blogging Now](https://mindhacks.cn/2009/02/15/why-you-should-start-blogging-now/) (2023-10-19)
+27. [Stacked Diffs and why you should know about them](https://newsletter.pragmaticengineer.com/p/stacked-diffs?utm_campaign=email-half-post&r=257u8n&utm_source=substack&utm_medium=email#fromHistory)(2023-10-20)
 
 ### ddia
 ### 阅读与写作讲义
