@@ -53,6 +53,8 @@
 25. [How to remember what you read](https://fs.blog/remember-books/) (2023-10-17)
 26. [Why You Should Start Blogging Now](https://mindhacks.cn/2009/02/15/why-you-should-start-blogging-now/) (2023-10-19)
 27. [Stacked Diffs and why you should know about them](https://newsletter.pragmaticengineer.com/p/stacked-diffs?utm_campaign=email-half-post&r=257u8n&utm_source=substack&utm_medium=email#fromHistory)(2023-10-20)
+28. [The function of growth](https://mp.weixin.qq.com/s/rGdaNTOU_0uY4ivUnpHzzg)(2023-10-22)
+29. [How to nurture others](https://mp.weixin.qq.com/s/wPX1Fb8wpeCpEpciDf7JZw)(2023-10-22)
 
 ### ddia
 ### 阅读与写作讲义
@@ -185,12 +187,9 @@
 1. [Redis Slow Query](https://mp.weixin.qq.com/s/nNEuYw0NlYGhuKKKKoWfcQ)
 2. [Others Reading Record](https://mp.weixin.qq.com/s/8qxPItVjEGeKarpGpXtO2w)
 3. [Ali Architecture](https://mp.weixin.qq.com/s/AkNuuHjguqm9aT4U4IXDFA)
-4. [Ali Rapid Personal Growth](https://mp.weixin.qq.com/s/rGdaNTOU_0uY4ivUnpHzzg)
-5. [how to nurture others](https://mp.weixin.qq.com/s/wPX1Fb8wpeCpEpciDf7JZw)
-6. [Redis slow QUery 2.0](https://mp.weixin.qq.com/s/trbGNYZPEfzaAMz6kZ_YKg)
-7. [the function of growth](https://mp.weixin.qq.com/s/rGdaNTOU_0uY4ivUnpHzzg)
-8. [redis distributed lock](https://mp.weixin.qq.com/s/O8o31rRBVL1DwK-JfmurRw)
-9. [Why Is SQLite Coded In C](https://www.sqlite.org/whyc.html)
+4. [Redis slow QUery 2.0](https://mp.weixin.qq.com/s/trbGNYZPEfzaAMz6kZ_YKg)
+5. [redis distributed lock](https://mp.weixin.qq.com/s/O8o31rRBVL1DwK-JfmurRw)
+6. [Why Is SQLite Coded In C](https://www.sqlite.org/whyc.html)
 
 ### 纳瓦尔宝典
 ### 算法导论
