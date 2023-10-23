@@ -22,6 +22,8 @@
 - 2023-10-17 6
 - 2023-10-23 8.3
 
+### 贫穷的本质
+- 2023-10-23 1.3
 
 ### the architecture of open source application
 
