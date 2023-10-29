@@ -5,6 +5,7 @@
   - [贫穷的本质](#贫穷的本质)
   - [the architecture of open source application](#the-architecture-of-open-source-application)
 - [read](#read)
+  - [article](#article)
   - [ddia](#ddia)
   - [阅读与写作讲义](#阅读与写作讲义)
   - [比较政治学](#比较政治学)
@@ -21,6 +22,7 @@
   - [麦肯锡教我的写作武器](#麦肯锡教我的写作武器)
   - [论持久战](#论持久战)
 - [unread](#unread)
+  - [article](#article-1)
   - [纳瓦尔宝典](#纳瓦尔宝典)
   - [算法导论](#算法导论)
   - [福格行为模型](#福格行为模型)
@@ -60,6 +62,8 @@
 ### the architecture of open source application
 
 ## read
+
+### article
 
 1. [The mythical 10x programmer](http://antirez.com/news/112)
 2. [kiplist survey](https://mp.weixin.qq.com/s/BPTrtRs_rQNCUmK05jO9aQ)
@@ -218,6 +222,8 @@
 -2023-10-07 complete
 
 ## unread
+
+### article
 
 1. [Redis Slow Query](https://mp.weixin.qq.com/s/nNEuYw0NlYGhuKKKKoWfcQ)
 2. [Others Reading Record](https://mp.weixin.qq.com/s/8qxPItVjEGeKarpGpXtO2w)
