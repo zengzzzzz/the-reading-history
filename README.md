@@ -95,6 +95,7 @@
 27. [Stacked Diffs and why you should know about them](https://newsletter.pragmaticengineer.com/p/stacked-diffs?utm_campaign=email-half-post&r=257u8n&utm_source=substack&utm_medium=email#fromHistory)(2023-10-20)
 28. [The function of growth](https://mp.weixin.qq.com/s/rGdaNTOU_0uY4ivUnpHzzg)(2023-10-22)
 29. [How to nurture others](https://mp.weixin.qq.com/s/wPX1Fb8wpeCpEpciDf7JZw)(2023-10-22)
+30. [Small chat](https://github.com/antirez/smallchat/tree/main)(2023-10-30)
 
 ### ddia
 ### 阅读与写作讲义
