@@ -1,7 +1,6 @@
 
 - [reading](#reading)
   - [nginx 核心知识](#nginx-核心知识)
-  - [Algorithm diagram](#algorithm-diagram)
   - [贫穷的本质](#贫穷的本质)
   - [the architecture of open source application](#the-architecture-of-open-source-application)
 - [read](#read)
@@ -21,6 +20,7 @@
   - [人月神话](#人月神话)
   - [麦肯锡教我的写作武器](#麦肯锡教我的写作武器)
   - [论持久战](#论持久战)
+  - [Algorithm diagram](#algorithm-diagram)
 - [unread](#unread)
   - [article](#article-1)
   - [纳瓦尔宝典](#纳瓦尔宝典)
@@ -29,6 +29,7 @@
   - [Getting More](#getting-more)
   - [the architecture of open source application](#the-architecture-of-open-source-application-1)
 - [blog](#blog)
+
 
 ## reading
 
@@ -45,16 +46,6 @@
 - 2023-09-20 38
 - 2023-09-20 43
 - 2023-09-24 47
-
-### Algorithm diagram
-- 2023-10-09 1
-- 2023-10-10 2
-- 2023-10-13 4
-- 2023-10-15 5
-- 2023-10-17 6
-- 2023-10-23 8.3
-- 2023-10-24 9
-- 2023-10-30 complete
 
 ### 贫穷的本质
 - 2023-10-23 1.3
@@ -145,7 +136,7 @@
 ### 高效能人士七个习惯
 - 2023-07-28 第三部分
 - 2023-07-28 完结
-- 2023-08-02 整理x mind
+- 2023-08-02 x-mind
 
 ### discrete math（version 7）
 - 2023-05-09 5.3.4
@@ -224,6 +215,17 @@
 
 ### 论持久战
 -2023-10-07 complete
+
+### Algorithm diagram
+- 2023-10-09 1
+- 2023-10-10 2
+- 2023-10-13 4
+- 2023-10-15 5
+- 2023-10-17 6
+- 2023-10-23 8.3
+- 2023-10-24 9
+- 2023-10-30 complete
+- 2023-10-31 x-mind
 
 ## unread
 
