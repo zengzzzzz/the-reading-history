@@ -1,6 +1,8 @@
 ## 2023-05-07 - now
+- [2023-05-07 - now](#2023-05-07---now)
 - [reading](#reading)
   - [nginx 核心知识](#nginx-核心知识)
+  - [Challenge Programming Competition](#challenge-programming-competition)
   - [the architecture of open source application](#the-architecture-of-open-source-application)
 - [read](#read)
   - [article](#article)
@@ -49,7 +51,7 @@
 - 2023-11-01 52
 
 ### Challenge Programming Competition
-- 2023-11-02 1
+- 2023-11-02 1.6
 
 ### the architecture of open source application
 
