@@ -1,7 +1,6 @@
 ## 2023-05-07 - now
 - [reading](#reading)
   - [nginx 核心知识](#nginx-核心知识)
-  - [贫穷的本质](#贫穷的本质)
   - [the architecture of open source application](#the-architecture-of-open-source-application)
 - [read](#read)
   - [article](#article)
@@ -21,6 +20,7 @@
   - [麦肯锡教我的写作武器](#麦肯锡教我的写作武器)
   - [论持久战](#论持久战)
   - [Algorithm diagram](#algorithm-diagram)
+  - [贫穷的本质](#贫穷的本质)
 - [unread](#unread)
   - [article](#article-1)
   - [纳瓦尔宝典](#纳瓦尔宝典)
@@ -48,11 +48,8 @@
 - 2023-09-24 47
 - 2023-11-01 52
 
-### 贫穷的本质
-- 2023-10-23 1.3
-- 2023-10-26 2.7
-- 2023-10-29 2.10
-- 2023-10-30 complete
+### Challenge Programming Competition
+- 2023-11-02 1
 
 ### the architecture of open source application
 
@@ -227,6 +224,13 @@
 - 2023-10-24 9
 - 2023-10-30 complete
 - 2023-10-31 x-mind
+
+### 贫穷的本质
+- 2023-10-23 1.3
+- 2023-10-26 2.7
+- 2023-10-29 2.10
+- 2023-10-30 complete
+- 2023-11-01 x-mind
 
 ## unread
 
