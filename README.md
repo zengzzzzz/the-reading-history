@@ -53,6 +53,9 @@
 ### Challenge Programming Competition
 - 2023-11-02 1.6
 
+### 作文四书
+- 2023-11-05 讲理
+
 ### the architecture of open source application
 
 ## read
