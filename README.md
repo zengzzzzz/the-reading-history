@@ -1,5 +1,4 @@
 ## 2023-05-07 - now
-- [2023-05-07 - now](#2023-05-07---now)
 - [reading](#reading)
   - [nginx 核心知识](#nginx-核心知识)
   - [Challenge Programming Competition](#challenge-programming-competition)
