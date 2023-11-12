@@ -236,6 +236,9 @@
 - 2023-10-30 complete
 - 2023-11-01 x-mind
 
+### 实践论（毛选）
+- 2023-11-12 complete
+
 ## unread
 
 ### article
