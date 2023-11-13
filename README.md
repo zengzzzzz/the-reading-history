@@ -59,6 +59,7 @@
 
 ### 作文四书
 - 2023-11-05 讲理
+- 2023-11-13 好有一比
 
 ### the architecture of open source application
 
@@ -240,8 +241,6 @@
 - 2023-10-29 2.10
 - 2023-10-30 complete
 - 2023-11-01 x-mind
-
-### 
 
 ### 实践论（毛选）
 - 2023-11-12 complete
