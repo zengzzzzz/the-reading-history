@@ -1,7 +1,9 @@
 ## 2023-05-07 - now
+- [2023-05-07 - now](#2023-05-07---now)
 - [reading](#reading)
   - [nginx 核心知识](#nginx-核心知识)
   - [Challenge Programming Competition](#challenge-programming-competition)
+  - [作文四书](#作文四书)
   - [the architecture of open source application](#the-architecture-of-open-source-application)
 - [read](#read)
   - [article](#article)
@@ -22,6 +24,9 @@
   - [论持久战](#论持久战)
   - [Algorithm diagram](#algorithm-diagram)
   - [贫穷的本质](#贫穷的本质)
+  - [](#)
+  - [实践论（毛选）](#实践论毛选)
+  - [矛盾论（毛选）](#矛盾论毛选)
 - [unread](#unread)
   - [article](#article-1)
   - [纳瓦尔宝典](#纳瓦尔宝典)
@@ -236,8 +241,13 @@
 - 2023-10-30 complete
 - 2023-11-01 x-mind
 
+### 
+
 ### 实践论（毛选）
 - 2023-11-12 complete
+
+### 矛盾论（毛选）
+-  2023-11-13 complete
 
 ## unread
 
