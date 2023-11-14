@@ -24,7 +24,6 @@
   - [论持久战](#论持久战)
   - [Algorithm diagram](#algorithm-diagram)
   - [贫穷的本质](#贫穷的本质)
-  - [](#)
   - [实践论（毛选）](#实践论毛选)
   - [矛盾论（毛选）](#矛盾论毛选)
 - [unread](#unread)
@@ -60,6 +59,7 @@
 ### 作文四书
 - 2023-11-05 讲理
 - 2023-11-13 好有一比
+- 2023-11-14 咖啡馆
 
 ### the architecture of open source application
 
