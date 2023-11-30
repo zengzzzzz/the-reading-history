@@ -104,7 +104,8 @@
 29. [How to nurture others](https://mp.weixin.qq.com/s/wPX1Fb8wpeCpEpciDf7JZw)(2023-10-22)
 30. [Small chat](https://github.com/antirez/smallchat/tree/main)(2023-10-30)
 31. [Five Days of Chaos at OpenAI: and What Started It](https://newsletter.pragmaticengineer.com/p/five-days-of-chaos-at-openai-and?utm_source=post-email-title&publication_id=458709&post_id=139105024&utm_campaign=email-post-title&isFreemail=true&r=257u8n&utm_medium=email)(2023-11-24)
-32. [floaty window example](https://github.com/tldraw/tldraw/pull/2250)(2023-11-24)
+32. [Floaty window example](https://github.com/tldraw/tldraw/pull/2250)(2023-11-24)
+33. [Establishing a personal learning outlook](https://mp.weixin.qq.com/s/azyF-y5jPIy5trOpZFf0pA)(2023-11-30)
 
 ### ddia
 ### 阅读与写作讲义
