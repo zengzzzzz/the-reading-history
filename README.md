@@ -270,6 +270,7 @@
 5. [redis distributed lock](https://mp.weixin.qq.com/s/O8o31rRBVL1DwK-JfmurRw)
 6. [Why Is SQLite Coded In C](https://www.sqlite.org/whyc.html)
 7. [Implementation practice of multi-level memory offloading in Tencent Cloud native scenario](https://mp.weixin.qq.com/s/BFex8B0HFfXYFygMBbW0lg)
+8. [L4 implementation](https://www.kawabangga.com/posts/5301)
 
 ### 纳瓦尔宝典
 ### 算法导论
