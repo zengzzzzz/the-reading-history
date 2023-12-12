@@ -108,6 +108,7 @@
 33. [Establishing a personal learning outlook](https://mp.weixin.qq.com/s/azyF-y5jPIy5trOpZFf0pA)(2023-11-30)
 34. [gcc compilation optimization details](https://mp.weixin.qq.com/s/_z8YU-LBwMumM3YT0sdotw)(2023-12-12)
 35. [Holiday Season Gift Ideas for Techies](https://newsletter.pragmaticengineer.com/p/holiday-season-gift-ideas-for-techies?utm_campaign=email-half-post&r=257u8n&utm_source=substack&utm_medium=email)(2023-12-12)
+36. [Teach leader think change ](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247536060&idx=1&sn=0c16ecdbed2021b327cf6c05b6a47f4e&chksm=e92a70b3de5df9a5317e8bfe06f22a232ebf86b29798cc4c4e961ace86d97cf4c326fb0c06ac&scene=132&exptype=timeline_recommend_article_extendread_samebiz#wechat_redirect)(2023-12-12)
 
 ### ddia
 ### 阅读与写作讲义
