@@ -106,6 +106,7 @@
 31. [Five Days of Chaos at OpenAI: and What Started It](https://newsletter.pragmaticengineer.com/p/five-days-of-chaos-at-openai-and?utm_source=post-email-title&publication_id=458709&post_id=139105024&utm_campaign=email-post-title&isFreemail=true&r=257u8n&utm_medium=email)(2023-11-24)
 32. [Floaty window example](https://github.com/tldraw/tldraw/pull/2250)(2023-11-24)
 33. [Establishing a personal learning outlook](https://mp.weixin.qq.com/s/azyF-y5jPIy5trOpZFf0pA)(2023-11-30)
+34. [gcc compilation optimization details](https://mp.weixin.qq.com/s/_z8YU-LBwMumM3YT0sdotw)(2023-12-12)
 
 ### ddia
 ### 阅读与写作讲义
