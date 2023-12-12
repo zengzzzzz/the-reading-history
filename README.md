@@ -107,6 +107,7 @@
 32. [Floaty window example](https://github.com/tldraw/tldraw/pull/2250)(2023-11-24)
 33. [Establishing a personal learning outlook](https://mp.weixin.qq.com/s/azyF-y5jPIy5trOpZFf0pA)(2023-11-30)
 34. [gcc compilation optimization details](https://mp.weixin.qq.com/s/_z8YU-LBwMumM3YT0sdotw)(2023-12-12)
+35. [Holiday Season Gift Ideas for Techies](https://newsletter.pragmaticengineer.com/p/holiday-season-gift-ideas-for-techies?utm_campaign=email-half-post&r=257u8n&utm_source=substack&utm_medium=email)(2023-12-12)
 
 ### ddia
 ### 阅读与写作讲义
