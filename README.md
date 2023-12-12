@@ -269,6 +269,7 @@
 4. [Redis slow QUery 2.0](https://mp.weixin.qq.com/s/trbGNYZPEfzaAMz6kZ_YKg)
 5. [redis distributed lock](https://mp.weixin.qq.com/s/O8o31rRBVL1DwK-JfmurRw)
 6. [Why Is SQLite Coded In C](https://www.sqlite.org/whyc.html)
+7. [Implementation practice of multi-level memory offloading in Tencent Cloud native scenario](https://mp.weixin.qq.com/s/BFex8B0HFfXYFygMBbW0lg)
 
 ### 纳瓦尔宝典
 ### 算法导论
