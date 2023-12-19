@@ -109,6 +109,7 @@
 34. [gcc compilation optimization details](https://mp.weixin.qq.com/s/_z8YU-LBwMumM3YT0sdotw)(2023-12-12)
 35. [Holiday Season Gift Ideas for Techies](https://newsletter.pragmaticengineer.com/p/holiday-season-gift-ideas-for-techies?utm_campaign=email-half-post&r=257u8n&utm_source=substack&utm_medium=email)(2023-12-12)
 36. [Teach leader think change ](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247536060&idx=1&sn=0c16ecdbed2021b327cf6c05b6a47f4e&chksm=e92a70b3de5df9a5317e8bfe06f22a232ebf86b29798cc4c4e961ace86d97cf4c326fb0c06ac&scene=132&exptype=timeline_recommend_article_extendread_samebiz#wechat_redirect)(2023-12-12)
+37. [Implementation practice of multi-level memory offloading in Tencent Cloud native scenario](https://mp.weixin.qq.com/s/BFex8B0HFfXYFygMBbW0lg)(2023-12-19)
 
 ### ddia
 ### 阅读与写作讲义
@@ -270,8 +271,7 @@
 4. [Redis slow QUery 2.0](https://mp.weixin.qq.com/s/trbGNYZPEfzaAMz6kZ_YKg)
 5. [redis distributed lock](https://mp.weixin.qq.com/s/O8o31rRBVL1DwK-JfmurRw)
 6. [Why Is SQLite Coded In C](https://www.sqlite.org/whyc.html)
-7. [Implementation practice of multi-level memory offloading in Tencent Cloud native scenario](https://mp.weixin.qq.com/s/BFex8B0HFfXYFygMBbW0lg)
-8. [L4 implementation](https://www.kawabangga.com/posts/5301)
+7. [L4 implementation](https://www.kawabangga.com/posts/5301)
 
 ### 纳瓦尔宝典
 ### 算法导论
