@@ -112,6 +112,7 @@
 37. [Implementation practice of multi-level memory offloading in Tencent Cloud native scenario](https://mp.weixin.qq.com/s/BFex8B0HFfXYFygMBbW0lg)(2023-12-19)
 38. [This is Why I Didn’t Accept You as a Senior Software Engineer](https://readmedium.com/en/this-is-why-i-didnt-accept-you-as-a-senior-software-engineer-c77fe5a0bc9)(2023-12-21)
 39. [Outlook for the near future](https://rebornix.com/ai/2023/12/27/unpredictable-2024/)(2023-12-28)
+40. [Comparison and selection of registration centers](https://juejin.cn/post/7068065361312088095#heading-16)(2023-12-28)
 
 ### ddia
 ### 阅读与写作讲义
