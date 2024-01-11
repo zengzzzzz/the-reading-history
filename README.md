@@ -114,6 +114,7 @@
 39. [Outlook for the near future](https://rebornix.com/ai/2023/12/27/unpredictable-2024/)(2023-12-28)
 40. [Comparison and selection of registration centers](https://juejin.cn/post/7068065361312088095#heading-16)(2023-12-28)
 41. [Load balancing algorithm - smooth weighted round robin](https://segmentfault.com/a/1190000018646548)(2023-12-28)
+42. [GPT as a finite-state markov chain](https://colab.research.google.com/drive/1SiF0KZJp75rUeetKOWqpsA8clmHP6jMg#scrollTo=xQmrWAhT6mkK)(2024-01-11)
 
 ### ddia
 ### 阅读与写作讲义
