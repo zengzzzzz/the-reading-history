@@ -116,6 +116,7 @@
 41. [Load balancing algorithm - smooth weighted round robin](https://segmentfault.com/a/1190000018646548)(2023-12-28)
 42. [GPT as a finite-state markov chain](https://colab.research.google.com/drive/1SiF0KZJp75rUeetKOWqpsA8clmHP6jMg#scrollTo=xQmrWAhT6mkK)(2024-01-11)
 43. [Apisix high-performance architecture analysis](https://www.upyun.com/opentalk/440.html)(2024-01-15)
+44. [Introducing BuildKit](https://blog.mobyproject.org/introducing-buildkit-17e056cc5317)(2024-02-20)
 
 ### ddia
 ### 阅读与写作讲义
