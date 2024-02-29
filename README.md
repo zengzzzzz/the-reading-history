@@ -117,7 +117,7 @@
 42. [GPT as a finite-state markov chain](https://colab.research.google.com/drive/1SiF0KZJp75rUeetKOWqpsA8clmHP6jMg#scrollTo=xQmrWAhT6mkK)(2024-01-11)
 43. [Apisix high-performance architecture analysis](https://www.upyun.com/opentalk/440.html)(2024-01-15)
 44. [Introducing BuildKit](https://blog.mobyproject.org/introducing-buildkit-17e056cc5317)(2024-02-20)
-45. [Apollo Config](https://www.apolloconfig.com/#/zh/README)(2024-02-28)
+45. [Apollo Config](https://www.apolloconfig.com/#/zh/README)(2024-02-27)
 
 ### ddia
 ### 阅读与写作讲义
