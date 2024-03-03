@@ -118,6 +118,7 @@
 43. [Apisix high-performance architecture analysis](https://www.upyun.com/opentalk/440.html)(2024-01-15)
 44. [Introducing BuildKit](https://blog.mobyproject.org/introducing-buildkit-17e056cc5317)(2024-02-20)
 45. [Apollo Config](https://www.apolloconfig.com/#/zh/README)(2024-02-27)
+46. [My favorite coding question to give candidates (and why)](https://carloarg02.medium.com/my-favorite-coding-question-to-give-candidates-17ea4758880c)(2024-03-02)
 
 ### ddia
 ### 阅读与写作讲义
