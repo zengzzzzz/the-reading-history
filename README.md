@@ -122,6 +122,7 @@
 47. [Starting with No: Why Most People Shouldn’t Be Managers](https://code.likeagirl.io/starting-with-no-why-most-people-shouldnt-be-managers-00c23159bbb6)(2024-03-03)
 48. [Tecent Distributed transactions](https://mp.weixin.qq.com/s/0Io-X0S9AY-s0HeRb_jbag)(2024-03-04)
 49. [I have asked this cache question to a couple of senior positions](https://iorilan.medium.com/i-have-asked-this-cache-question-to-a-couple-of-senior-positions-540a3f36ebe)(2024-03-19)
+50. [High-Level System Architecture of Booking.com](https://readmedium.com/zh/https%3A/medium.com/%40sahintalha1/high-level-system-architecture-of-booking-com-06c199003d94)(2024-03-22)
 
 ### ddia
 ### 阅读与写作讲义
