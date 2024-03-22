@@ -123,6 +123,7 @@
 48. [Tecent Distributed transactions](https://mp.weixin.qq.com/s/0Io-X0S9AY-s0HeRb_jbag)(2024-03-04)
 49. [I have asked this cache question to a couple of senior positions](https://iorilan.medium.com/i-have-asked-this-cache-question-to-a-couple-of-senior-positions-540a3f36ebe)(2024-03-19)
 50. [High-Level System Architecture of Booking.com](https://readmedium.com/zh/https%3A/medium.com/%40sahintalha1/high-level-system-architecture-of-booking-com-06c199003d94)(2024-03-22)
+51. [High-Level System Architecture of Booking.com](https://readmedium.com/zh/https%3A/medium.com/%40sahintalha1/high-level-system-architecture-of-booking-com-06c199003d94)(2024-03-22)
 
 ### ddia
 ### 阅读与写作讲义
@@ -285,7 +286,6 @@
 5. [redis distributed lock](https://mp.weixin.qq.com/s/O8o31rRBVL1DwK-JfmurRw)
 6. [Why Is SQLite Coded In C](https://www.sqlite.org/whyc.html)
 7. [L4 implementation](https://www.kawabangga.com/posts/5301)
-8. [High-Level System Architecture of Booking.com](https://readmedium.com/zh/https%3A/medium.com/%40sahintalha1/high-level-system-architecture-of-booking-com-06c199003d94)
 9. [System design Instagram](https://readmedium.com/en/https:/medium.com/@rohitverma_87831/system-design-instagram-746014c9b3aa)
 
 ### 纳瓦尔宝典
