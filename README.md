@@ -285,6 +285,8 @@
 5. [redis distributed lock](https://mp.weixin.qq.com/s/O8o31rRBVL1DwK-JfmurRw)
 6. [Why Is SQLite Coded In C](https://www.sqlite.org/whyc.html)
 7. [L4 implementation](https://www.kawabangga.com/posts/5301)
+8. [High-Level System Architecture of Booking.com](https://readmedium.com/zh/https%3A/medium.com/%40sahintalha1/high-level-system-architecture-of-booking-com-06c199003d94)
+9. [System design Instagram](https://readmedium.com/en/https:/medium.com/@rohitverma_87831/system-design-instagram-746014c9b3aa)
 
 ### 纳瓦尔宝典
 ### 算法导论
