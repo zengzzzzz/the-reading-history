@@ -124,6 +124,7 @@
 49. [I have asked this cache question to a couple of senior positions](https://iorilan.medium.com/i-have-asked-this-cache-question-to-a-couple-of-senior-positions-540a3f36ebe)(2024-03-19)
 50. [High-Level System Architecture of Booking.com](https://readmedium.com/zh/https%3A/medium.com/%40sahintalha1/high-level-system-architecture-of-booking-com-06c199003d94)(2024-03-22)
 51. [High-Level System Architecture of Booking.com](https://readmedium.com/zh/https%3A/medium.com/%40sahintalha1/high-level-system-architecture-of-booking-com-06c199003d94)(2024-03-22)
+52. [The Introducation of LangChain](https://mp.weixin.qq.com/s/C8pQGy-sv14MlYSQIOGPBA)(2024-03-24)
 
 ### ddia
 ### 阅读与写作讲义
