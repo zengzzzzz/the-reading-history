@@ -5,7 +5,6 @@
   - [Challenge Programming Competition](#challenge-programming-competition)
   - [the architecture of open source application](#the-architecture-of-open-source-application)
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
-  - [Unbounded Vision](#Unbounded-Vision)
 - [read](#read)
   - [article](#article)
   - [ddia](#ddia)
@@ -28,6 +27,7 @@
   - [实践论（毛选）](#实践论毛选)
   - [矛盾论（毛选）](#矛盾论毛选)
   - [作文四书](#作文四书)
+  - [Unbounded Vision](#Unbounded-Vision)
 - [unread](#unread)
   - [article](#article-1)
   - [纳瓦尔宝典](#纳瓦尔宝典)
@@ -66,12 +66,6 @@
 ### the architecture of open source application
 
 ### the Lunix of high performance server programming
-
-### Unbounded Vision
-- 2024-04-07 2
-- 2024-04-08 3
-- 2024-04-09 4
-- 2024-04-10 6
 
 ## read
 
@@ -285,6 +279,14 @@
 - 2023-11-13 好有一比
 - 2023-11-14 咖啡馆
 - 2023-11-16 别
+
+### Unbounded Vision
+- 2024-04-07 2
+- 2024-04-08 3
+- 2024-04-09 4
+- 2024-04-10 6
+- 2024-04-11 9
+- 2024-04-12 x-mind
 
 ## unread
 
