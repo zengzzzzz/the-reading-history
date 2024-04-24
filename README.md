@@ -127,6 +127,7 @@
 50. [High-Level System Architecture of Booking.com](https://readmedium.com/zh/https%3A/medium.com/%40sahintalha1/high-level-system-architecture-of-booking-com-06c199003d94)(2024-03-22)
 51. [High-Level System Architecture of Booking.com](https://readmedium.com/zh/https%3A/medium.com/%40sahintalha1/high-level-system-architecture-of-booking-com-06c199003d94)(2024-03-22)
 52. [The Introduction of LangChain](https://mp.weixin.qq.com/s/C8pQGy-sv14MlYSQIOGPBA)(2024-03-24)
+53. [WeChat messaging architecture ten years ago](https://mp.weixin.qq.com/s/ElgyN7T4c3VMjF5kAl4P0A)(2024-04-24)
 
 ### ddia
 ### 阅读与写作讲义
