@@ -129,6 +129,7 @@
 52. [The Introduction of LangChain](https://mp.weixin.qq.com/s/C8pQGy-sv14MlYSQIOGPBA)(2024-03-24)
 53. [WeChat messaging architecture ten years ago](https://mp.weixin.qq.com/s/ElgyN7T4c3VMjF5kAl4P0A)(2024-04-24)
 54. [devv ai entrepreneurship](https://mp.weixin.qq.com/s/71Kg1SFeX25hte-mdhIIng)(2024-04-24)
+55. [the introduction of chainGPT](https://zhuanlan.zhihu.com/p/613323982)(2024-04-25)
 
 ### ddia
 ### 阅读与写作讲义
