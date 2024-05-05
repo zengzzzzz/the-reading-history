@@ -5,7 +5,7 @@
   - [Challenge Programming Competition](#challenge-programming-competition)
   - [the architecture of open source application](#the-architecture-of-open-source-application)
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
-  - [讲透区块链 Greek](#区块链-Greek)
+  - [讲透区块链 Greek](#讲透区块链-Greek)
 - [read](#read)
   - [article](#article)
   - [ddia](#ddia)
@@ -31,6 +31,7 @@
   - [Unbounded Vision](#Unbounded-Vision)
   - [走进web 3.0](#走进web-3.0)
   - [纳瓦尔宝典](#纳瓦尔宝典)
+  - [七堂极简物理课](#七堂极简物理课)
 - [unread](#unread)
   - [article](#article-1)
   - [算法导论](#算法导论)
@@ -306,6 +307,9 @@
 ### 纳瓦尔宝典
 - 2024-05-01
 - 2024-05-05 x-mind
+
+### 七堂极简物理课
+- 2024-05-05
 
 ## unread
 
