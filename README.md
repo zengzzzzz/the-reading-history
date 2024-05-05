@@ -5,6 +5,7 @@
   - [Challenge Programming Competition](#challenge-programming-competition)
   - [the architecture of open source application](#the-architecture-of-open-source-application)
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
+  - [讲透区块链 Greek](#区块链-Greek)
 - [read](#read)
   - [article](#article)
   - [ddia](#ddia)
@@ -29,10 +30,9 @@
   - [作文四书](#作文四书)
   - [Unbounded Vision](#Unbounded-Vision)
   - [走进web 3.0](#走进web-3.0)
-  - [区块链 Greek](#区块链-Greek)
+  - [纳瓦尔宝典](#纳瓦尔宝典)
 - [unread](#unread)
   - [article](#article-1)
-  - [纳瓦尔宝典](#纳瓦尔宝典)
   - [算法导论](#算法导论)
   - [福格行为模型](#福格行为模型)
   - [Getting More](#getting-more)
@@ -69,7 +69,9 @@
 
 ### the Lunix of high performance server programming、
 
-### 区块链 Greek
+### 讲透区块链 Greek
+- 2024-05-04 3
+- 2024-05-05 5
 
 ## read
 
@@ -301,6 +303,10 @@
 - 2024-04-17 11
 - 2024-04-18 14 x-mind
 
+### 纳瓦尔宝典
+- 2024-05-01
+- 2024-05-05 x-mind
+
 ## unread
 
 ### article
@@ -314,7 +320,6 @@
 7. [L4 implementation](https://www.kawabangga.com/posts/5301)
 9. [System design Instagram](https://readmedium.com/en/https:/medium.com/@rohitverma_87831/system-design-instagram-746014c9b3aa)
 
-### 纳瓦尔宝典
 ### 算法导论
 ### 福格行为模型
 ### Getting More
