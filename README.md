@@ -134,6 +134,7 @@
 53. [WeChat messaging architecture ten years ago](https://mp.weixin.qq.com/s/ElgyN7T4c3VMjF5kAl4P0A)(2024-04-24)
 54. [devv ai entrepreneurship](https://mp.weixin.qq.com/s/71Kg1SFeX25hte-mdhIIng)(2024-04-24)
 55. [the introduction of chainGPT](https://zhuanlan.zhihu.com/p/613323982)(2024-04-25)
+56. [the introduction of Puffer](https://zhuanlan.zhihu.com/p/656433590)(2024-05-13)
 
 ### ddia
 ### 阅读与写作讲义
