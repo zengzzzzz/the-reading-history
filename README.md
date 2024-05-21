@@ -6,6 +6,7 @@
   - [the architecture of open source application](#the-architecture-of-open-source-application)
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
   - [讲透区块链 Greek](#讲透区块链-Greek)
+  - [这就是ChatGPT](#这就是ChatGPT)
 - [read](#read)
   - [article](#article)
   - [ddia](#ddia)
@@ -75,6 +76,9 @@
 - 2024-05-05 5
 - 2024-05-13 9
 - 2024-05-16 11
+
+### 这就是ChatGPT
+- 2024-05-21 1
 
 ## read
 
