@@ -142,6 +142,7 @@
 56. [the introduction of Puffer](https://zhuanlan.zhihu.com/p/656433590)(2024-05-13)
 57. [Key factors affecting growth (1)](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247531492&idx=1&sn=b0805672ab0ca6c82bd11930b0961706&chksm=e92a46ebde5dcffd4bea3cca1842bdd6e62293da87a454ffe4721fc59d7913321ecd6bca33ae&scene=21#wechat_redirect)(2024-05-19)
 58. [Key factors affecting growth (2)](https://mp.weixin.qq.com/s/vZRuCWNEUgFKSBMVDX3UQw)(2024-05-19)
+59. [Getting an Engineering Executive Job](https://newsletter.pragmaticengineer.com/p/getting-an-engineering-executive?utm_campaign=email-half-post&r=257u8n&utm_source=substack&utm_medium=email)(2024-05-23)
 
 ### ddia
 ### 阅读与写作讲义
