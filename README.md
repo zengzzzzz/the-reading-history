@@ -5,8 +5,7 @@
   - [Challenge Programming Competition](#challenge-programming-competition)
   - [the architecture of open source application](#the-architecture-of-open-source-application)
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
-  - [讲透区块链 Greek](#讲透区块链-Greek)
-  - [这就是ChatGPT](#这就是ChatGPT)
+  - [KK三部曲（失控）](KK三部曲（失控）)
 - [read](#read)
   - [article](#article)
   - [ddia](#ddia)
@@ -33,6 +32,8 @@
   - [走进web 3.0](#走进web-3.0)
   - [纳瓦尔宝典](#纳瓦尔宝典)
   - [七堂极简物理课](#七堂极简物理课)
+  - [讲透区块链 Greek](#讲透区块链-Greek)
+  - [这就是ChatGPT](#这就是ChatGPT)
 - [unread](#unread)
   - [article](#article-1)
   - [算法导论](#算法导论)
@@ -82,6 +83,9 @@
 - 2024-05-21 1
 - 2024-05-28 1.9
 - 2024-06-05 2.3 x-mind
+
+### KK三部曲（失控）
+- 2024-06-08 5
 
 ## read
 
@@ -324,6 +328,18 @@
 
 ### 七堂极简物理课
 - 2024-05-05
+
+### 讲透区块链 Greek
+- 2024-05-04 3
+- 2024-05-05 5
+- 2024-05-13 9
+- 2024-05-16 11
+- 2024-06-07 19 x-mind
+
+### 这就是ChatGPT
+- 2024-05-21 1
+- 2024-05-28 1.9
+- 2024-06-05 2.3 x-mind
 
 ## unread
 
