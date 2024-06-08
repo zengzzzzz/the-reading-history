@@ -5,7 +5,7 @@
   - [Challenge Programming Competition](#challenge-programming-competition)
   - [the architecture of open source application](#the-architecture-of-open-source-application)
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
-  - [KK三部曲（失控）](KK三部曲（失控）)
+  - [KK三部曲（失控）](KK三部曲失控)
 - [read](#read)
   - [article](#article)
   - [ddia](#ddia)
