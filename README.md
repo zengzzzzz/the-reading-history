@@ -139,6 +139,7 @@
 58. [Key factors affecting growth (2)](https://mp.weixin.qq.com/s/vZRuCWNEUgFKSBMVDX3UQw)(2024-05-19)
 59. [Getting an Engineering Executive Job](https://newsletter.pragmaticengineer.com/p/getting-an-engineering-executive?utm_campaign=email-half-post&r=257u8n&utm_source=substack&utm_medium=email)(2024-05-23)
 60. [Talk about my values](https://coolshell.cn/articles/19085.html)(2024-05-29)
+61. [What do GenZ software engineers really think?](https://newsletter.pragmaticengineer.com/p/genz-part-2?utm_source=post-email-title&publication_id=458709&post_id=145541139&utm_campaign=email-post-title&isFreemail=true&r=257u8n&triedRedirect=true&utm_medium=email)(2024-06-12)
 
 ### ddia
 ### 阅读与写作讲义
