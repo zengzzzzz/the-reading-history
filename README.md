@@ -147,6 +147,7 @@
 60. [Talk about my values](https://coolshell.cn/articles/19085.html)(2024-05-29)
 61. [What do GenZ software engineers really think?](https://newsletter.pragmaticengineer.com/p/genz-part-2?utm_source=post-email-title&publication_id=458709&post_id=145541139&utm_campaign=email-post-title&isFreemail=true&r=257u8n&triedRedirect=true&utm_medium=email)(2024-06-12)
 62. [What’s Changed in 50 Years of Computing: Part 3](https://newsletter.pragmaticengineer.com/p/mythical-man-month-part-3?utm_campaign=email-half-post&r=257u8n&utm_source=substack&utm_medium=email)(2024-06-21)
+63. [The way of architecture: everyone is an architect](https://mp.weixin.qq.com/s/_sPs0NB4zWef-pW17DKimg)(2024-07-05)
 
 ### ddia
 ### 阅读与写作讲义
