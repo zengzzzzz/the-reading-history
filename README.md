@@ -5,7 +5,7 @@
   - [Challenge Programming Competition](#challenge-programming-competition)
   - [the architecture of open source application](#the-architecture-of-open-source-application)
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
-  - [KK三部曲（失控）](#KK三部曲失控)
+  - [KK三部曲（失控 科技想要什么 必然）](#KK三部曲失控科技想要什么必然)
 - [read](#read)
   - [article](#article)
   - [ddia](#ddia)
@@ -73,14 +73,15 @@
 
 ### the Lunix of high performance server programming、
 
-### KK三部曲（失控）
-- 2024-06-08 5
+### KK三部曲（失控 科技想要什么 必然）
+- 2024-06-08 5 失控
 - 2024-06-12 7
 - 2024-06-16 10
 - 2024-06-24 12
 - 2024-06-25 14
 - 2024-06-26 17
-- 2024-07-13 24 x-mind
+- 2024-07-13 24 x-mind 
+- 2024-07-14 1 科技想要什么
 
 ## read
 
