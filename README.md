@@ -1,11 +1,9 @@
 ## 2023-05-07 - now
 - [2023-05-07 - now](#2023-05-07---now)
 - [reading](#reading)
-  - [nginx 核心知识](#nginx-核心知识)
-  - [Challenge Programming Competition](#challenge-programming-competition)
   - [the architecture of open source application](#the-architecture-of-open-source-application)
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
-  - [KK三部曲（失控 科技想要什么 必然）](#KK三部曲失控科技想要什么必然)
+  - [rich Dad and poor Dad](#rich-Dad-and-poor-Dad)
 - [read](#read)
   - [article](#article)
   - [ddia](#ddia)
@@ -35,57 +33,25 @@
   - [讲透区块链 Greek](#讲透区块链-Greek)
   - [这就是ChatGPT](#这就是ChatGPT)
   - [人生海海](#人生海海)
+  - [KK三部曲（失控 科技想要什么 必然）](#KK三部曲失控科技想要什么必然)
 - [unread](#unread)
   - [article](#article-1)
   - [算法导论](#算法导论)
   - [福格行为模型](#福格行为模型)
   - [Getting More](#getting-more)
   - [the architecture of open source application](#the-architecture-of-open-source-application-1)
+  - [nginx 核心知识](#nginx-核心知识)
+  - [Challenge Programming Competition](#challenge-programming-competition)
 - [blog](#blog)
 
 
 ## reading
 
-### nginx 核心知识
-- 2023-07-16 6
-- 2023-08-07 10
-- 2023-08-08 12
-- 2023-08-11 13
-- 2023-08-19 17
-- 2023-08-20 21
-- 2023-08-20 26
-- 2023-09-16 31
-- 2023-09-20 35
-- 2023-09-20 38
-- 2023-09-20 43
-- 2023-09-24 47
-- 2023-11-01 52
-- 2023-11-16 54
-- 2023-11-20 56
-
-### Challenge Programming Competition
-- 2023-11-02 1.6
-- 2023-11-22 2.1.6
-- 2023-11-27 2.3
-- 2023-11-28 2.4
-
 ### the architecture of open source application
 
 ### the Lunix of high performance server programming、
 
-### KK三部曲（失控 科技想要什么 必然）
-- 2024-06-08 5 失控
-- 2024-06-12 7
-- 2024-06-16 10
-- 2024-06-24 12
-- 2024-06-25 14
-- 2024-06-26 17
-- 2024-07-13 24 x-mind 
-- 2024-07-14 1 科技想要什么
-- 2024-07-20 10
-- 2024-07-31 14
-- 2024-08-01 1 必然
-- 2024-08-11 10 
+### rich Dad and poor Dad
 
 ## read
 
@@ -349,6 +315,21 @@
 - 2024-06-08 start
 - 2024-06-11 end
 
+### KK三部曲（失控 科技想要什么 必然）
+- 2024-06-08 5 失控
+- 2024-06-12 7
+- 2024-06-16 10
+- 2024-06-24 12
+- 2024-06-25 14
+- 2024-06-26 17
+- 2024-07-13 24 x-mind 
+- 2024-07-14 1 科技想要什么
+- 2024-07-20 10
+- 2024-07-31 14
+- 2024-08-01 1 必然
+- 2024-08-11 10
+- 2024-08-13 12 end
+
 ## unread
 
 ### article
@@ -366,6 +347,29 @@
 ### 福格行为模型
 ### Getting More
 ### the architecture of open source application
+
+### nginx 核心知识
+- 2023-07-16 6
+- 2023-08-07 10
+- 2023-08-08 12
+- 2023-08-11 13
+- 2023-08-19 17
+- 2023-08-20 21
+- 2023-08-20 26
+- 2023-09-16 31
+- 2023-09-20 35
+- 2023-09-20 38
+- 2023-09-20 43
+- 2023-09-24 47
+- 2023-11-01 52
+- 2023-11-16 54
+- 2023-11-20 56
+
+### Challenge Programming Competition
+- 2023-11-02 1.6
+- 2023-11-22 2.1.6
+- 2023-11-27 2.3
+- 2023-11-28 2.4
 
 ## blog
 - https://ciechanow.ski/archives/
