@@ -53,6 +53,7 @@
 
 ### rich Dad and poor Dad
 -2024-08-18 8
+-2024-08-30 10
 
 ## read
 
