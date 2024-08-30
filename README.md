@@ -4,6 +4,7 @@
   - [the architecture of open source application](#the-architecture-of-open-source-application)
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
   - [rich Dad and poor Dad](#rich-Dad-and-poor-Dad)
+  - [first principle](#第一性原理)
 - [read](#read)
   - [article](#article)
   - [ddia](#ddia)
@@ -52,8 +53,11 @@
 ### the Lunix of high performance server programming、
 
 ### rich Dad and poor Dad
--2024-08-18 8
--2024-08-30 10
+- 2024-08-18 8
+- 2024-08-30 10
+
+### 第一性原理
+- 2024-09-01 1
 
 ## read
 
