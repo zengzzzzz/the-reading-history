@@ -56,7 +56,7 @@
 ### 第一性原理
 - 2024-09-01 1
 
-### Poor Charlie's Dictionary
+### Poor Charlie s Dictionary
 - 2024-09-01 1
 
 ## read
