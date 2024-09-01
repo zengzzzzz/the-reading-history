@@ -3,7 +3,7 @@
 - [reading](#reading)
   - [the architecture of open source application](#the-architecture-of-open-source-application)
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
-  - [rich Dad and poor Dad](#rich-Dad-and-poor-Dad)
+  - [Poor Charlie's Dictionary](#Poor-Charlie's-Dictionary)
   - [first principle](#第一性原理)
 - [read](#read)
   - [article](#article)
@@ -35,6 +35,7 @@
   - [这就是ChatGPT](#这就是ChatGPT)
   - [人生海海](#人生海海)
   - [KK三部曲（失控 科技想要什么 必然）](#KK三部曲失控科技想要什么必然)
+  - [rich Dad and poor Dad](#rich-Dad-and-poor-Dad)
 - [unread](#unread)
   - [article](#article-1)
   - [算法导论](#算法导论)
@@ -52,11 +53,10 @@
 
 ### the Lunix of high performance server programming、
 
-### rich Dad and poor Dad
-- 2024-08-18 8
-- 2024-08-30 10
-
 ### 第一性原理
+- 2024-09-01 1
+
+### Poor Charlie's Dictionary
 - 2024-09-01 1
 
 ## read
@@ -335,6 +335,11 @@
 - 2024-08-01 1 必然
 - 2024-08-11 10
 - 2024-08-13 12 end
+
+### rich Dad and poor Dad
+- 2024-08-18 8
+- 2024-08-30 10
+- 2024-09-01 end
 
 ## unread
 
