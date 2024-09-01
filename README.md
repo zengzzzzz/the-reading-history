@@ -3,7 +3,7 @@
 - [reading](#reading)
   - [the architecture of open source application](#the-architecture-of-open-source-application)
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
-  - [Poor Charlie's Dictionary](#Poor-Charlie's-Dictionary)
+  - [Poor Charlie's Dictionary](#Poor-Charlie-s-Dictionary)
   - [first principle](#第一性原理)
 - [read](#read)
   - [article](#article)
