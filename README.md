@@ -58,6 +58,7 @@
 
 ### Poor Charlie s Dictionary
 - 2024-09-01 1
+- 2024-09-19 3.1
 
 ## read
 
