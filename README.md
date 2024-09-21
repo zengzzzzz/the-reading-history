@@ -128,6 +128,8 @@
 62. [What’s Changed in 50 Years of Computing: Part 3](https://newsletter.pragmaticengineer.com/p/mythical-man-month-part-3?utm_campaign=email-half-post&r=257u8n&utm_source=substack&utm_medium=email)(2024-06-21)
 63. [The way of architecture: everyone is an architect](https://mp.weixin.qq.com/s/_sPs0NB4zWef-pW17DKimg)(2024-07-05)
 64. [In-depth understanding of storage engines from scratch](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649784614&idx=1&sn=42e0e5cab339fbc28a7038964de74eac&chksm=becc125d89bb9b4b5d8fd3a3f70a65ff8b3c734a1e5cdee55ef8addca46ad678cb02427a6183&mpshare=1&scene=1&srcid=0731MxnrgMwevm19CV9yfLIW&sharer_shareinfo=5979740e39b269bc77abf106d6147db6&sharer_shareinfo_first=5979740e39b269bc77abf106d6147db6&from=singlemessage&isappinstalled=0&clicktime=1722390573&enterid=1722390573&forceh5=1#rd)(2024-07-31)
+65. [Mojo, 90,000 Times Faster Than Python, Finally Open Sourced! Just Launched, Already Surpassing 17,000 Stars](https://blog.stackademic.com/mojo-90-000-times-faster-than-python-finally-open-sourced-777bdd9a1896)((2024-09-22)
+66. [The Era of High-Paying Tech Jobs is Over](https://readmedium.com/zh/https%3A/levelup.gitconnected.com/the-era-of-high-paying-tech-jobs-is-over-572e4e577758)(2024-09-22)
 
 ### ddia
 ### 阅读与写作讲义
