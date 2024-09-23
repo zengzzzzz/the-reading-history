@@ -3,8 +3,8 @@
 - [reading](#reading)
   - [the architecture of open source application](#the-architecture-of-open-source-application)
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
-  - [Poor Charlie's Dictionary](#Poor-Charlie-s-Dictionary)
   - [first principle](#第一性原理)
+  - [Remote](#Remote)
 - [read](#read)
   - [article](#article)
   - [ddia](#ddia)
@@ -36,6 +36,7 @@
   - [人生海海](#人生海海)
   - [KK三部曲（失控 科技想要什么 必然）](#KK三部曲失控科技想要什么必然)
   - [rich Dad and poor Dad](#rich-Dad-and-poor-Dad)
+  - [Poor Charlie's Dictionary](#Poor-Charlie-s-Dictionary)
 - [unread](#unread)
   - [article](#article-1)
   - [算法导论](#算法导论)
@@ -56,10 +57,8 @@
 ### 第一性原理
 - 2024-09-01 1
 
-### Poor Charlie s Dictionary
-- 2024-09-01 1
-- 2024-09-19 3.1
-- 2024-09-23 end
+### Remote
+- 2024-0-23 1
 
 ## read
 
@@ -344,6 +343,11 @@
 - 2024-08-18 8
 - 2024-08-30 10
 - 2024-09-01 end
+
+### Poor Charlie s Dictionary
+- 2024-09-01 1
+- 2024-09-19 3.1
+- 2024-09-23 end
 
 ## unread
 
