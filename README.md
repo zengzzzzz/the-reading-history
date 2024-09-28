@@ -131,6 +131,7 @@
 65. [Mojo, 90,000 Times Faster Than Python, Finally Open Sourced! Just Launched, Already Surpassing 17,000 Stars](https://blog.stackademic.com/mojo-90-000-times-faster-than-python-finally-open-sourced-777bdd9a1896)((2024-09-22)
 66. [The Era of High-Paying Tech Jobs is Over](https://readmedium.com/zh/https%3A/levelup.gitconnected.com/the-era-of-high-paying-tech-jobs-is-over-572e4e577758)(2024-09-22)
 67. [Series of Measures Launched for Financial Support for High-Quality Economic Development](http://cpc.people.com.cn/n1/2024/0925/c64387-40327713.html)(2024-09-28)
+68. [Approaching and understanding LPR](http://money.people.com.cn/n1/2020/0921/c42877-31868373.html)(2024-09-28)
 
 ### ddia
 ### 阅读与写作讲义
