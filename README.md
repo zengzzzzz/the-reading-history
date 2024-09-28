@@ -132,6 +132,7 @@
 66. [The Era of High-Paying Tech Jobs is Over](https://readmedium.com/zh/https%3A/levelup.gitconnected.com/the-era-of-high-paying-tech-jobs-is-over-572e4e577758)(2024-09-22)
 67. [Series of Measures Launched for Financial Support for High-Quality Economic Development](http://cpc.people.com.cn/n1/2024/0925/c64387-40327713.html)(2024-09-28)
 68. [Approaching and understanding LPR](http://money.people.com.cn/n1/2020/0921/c42877-31868373.html)(2024-09-28)
+69. [How Low Will Interest Rates Go? Powell Speech Monday Could Give Clues](https://www.investopedia.com/how-low-will-interest-rates-go-powell-speech-monday-could-give-clues-8719854)(2024-09-28)
 
 ### ddia
 ### 阅读与写作讲义
