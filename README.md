@@ -134,6 +134,7 @@
 68. [Approaching and understanding LPR](http://money.people.com.cn/n1/2020/0921/c42877-31868373.html)(2024-09-28)
 69. [How Low Will Interest Rates Go? Powell Speech Monday Could Give Clues](https://www.investopedia.com/how-low-will-interest-rates-go-powell-speech-monday-could-give-clues-8719854)(2024-09-28)
 70. [Google Has Finally Dethroned ChatGPT](https://medium.com/@ignacio.de.gregorio.noblejas/google-has-finally-dethroned-chatgpt-87a8f8c10d92)(2024-09-29)
+71. [Why Zig programmers are making so much money](https://readmedium.com/why-zig-programmers-are-making-so-much-money-5f03a0838cf6)(2024-09-29)
 
 ### ddia
 ### 阅读与写作讲义
