@@ -4,7 +4,6 @@
   - [the architecture of open source application](#the-architecture-of-open-source-application)
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
   - [first principle](#第一性原理)
-  - [Remote](#Remote)
 - [read](#read)
   - [article](#article)
   - [ddia](#ddia)
@@ -37,6 +36,7 @@
   - [KK三部曲（失控 科技想要什么 必然）](#KK三部曲失控科技想要什么必然)
   - [rich Dad and poor Dad](#rich-Dad-and-poor-Dad)
   - [Poor Charlie's Dictionary](#Poor-Charlie-s-Dictionary)
+  - [Remote](#Remote)
 - [unread](#unread)
   - [article](#article-1)
   - [算法导论](#算法导论)
@@ -56,11 +56,7 @@
 
 ### 第一性原理
 - 2024-09-01 1
-
-### Remote
-- 2024-09-23 1
-- 2924-10-02 3
-- 2024-10-03 end 
+- 2024-10-04 2
 
 ## read
 
@@ -356,6 +352,11 @@
 - 2024-09-01 1
 - 2024-09-19 3.1
 - 2024-09-23 end
+
+### Remote
+- 2024-09-23 1
+- 2924-10-02 3
+- 2024-10-03 end 
 
 ## unread
 
