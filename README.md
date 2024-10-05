@@ -3,7 +3,6 @@
 - [reading](#reading)
   - [the architecture of open source application](#the-architecture-of-open-source-application)
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
-  - [first principle](#第一性原理)
 - [read](#read)
   - [article](#article)
   - [ddia](#ddia)
@@ -53,10 +52,6 @@
 ### the architecture of open source application
 
 ### the Lunix of high performance server programming、
-
-### 第一性原理
-- 2024-09-01 1
-- 2024-10-04 2
 
 ## read
 
