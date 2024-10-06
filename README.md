@@ -3,6 +3,7 @@
 - [reading](#reading)
   - [the architecture of open source application](#the-architecture-of-open-source-application)
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
+  - [from zero to one](#from-zero-to-one)
 - [read](#read)
   - [article](#article)
   - [ddia](#ddia)
@@ -52,6 +53,9 @@
 ### the architecture of open source application
 
 ### the Lunix of high performance server programming、
+
+### from zero to one
+- 2024-10-06 10
 
 ## read
 
