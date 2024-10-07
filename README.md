@@ -57,6 +57,7 @@
 
 ### From zero to one
 - 2024-10-06 10
+- 2024-10-07 end
 
 ### Hackers And Painters
 - 2024-10-06 1
