@@ -137,6 +137,8 @@
 70. [Google Has Finally Dethroned ChatGPT](https://medium.com/@ignacio.de.gregorio.noblejas/google-has-finally-dethroned-chatgpt-87a8f8c10d92)(2024-09-29)
 71. [Why Zig programmers are making so much money](https://readmedium.com/why-zig-programmers-are-making-so-much-money-5f03a0838cf6)(2024-09-29)
 72. [StackoverFlow 2024](https://survey.stackoverflow.co/2024)(2024-10-01)
+73. [My 7 Income Sources With One AI Tool](https://readmedium.com/zh/https%3A/medium.com/%40thebudgetpurse/my-7-income-sources-with-one-ai-tool-eb8f1ac77897)(2024-10-07)
+74. [Interviewer: What is the difference between [0] * 3 and [0, 0, 0] in Python?](https://readmedium.com/zh/https%3A/programming.earthonline.us/interviewer-what-is-the-difference-between-0-3-and-0-0-0-in-python-f642a0c93a11)(2024-10-07)
 
 ### ddia
 ### 阅读与写作讲义
