@@ -143,6 +143,7 @@
 73. [My 7 Income Sources With One AI Tool](https://readmedium.com/zh/https%3A/medium.com/%40thebudgetpurse/my-7-income-sources-with-one-ai-tool-eb8f1ac77897)(2024-10-07)
 74. [Interviewer: What is the difference between [0] * 3 and [0, 0, 0] in Python?](https://readmedium.com/zh/https%3A/programming.earthonline.us/interviewer-what-is-the-difference-between-0-3-and-0-0-0-in-python-f642a0c93a11)(2024-10-07)
 75. [How E-Commerce Is Making China’s Deflation Worse](https://www.nytimes.com/2024/10/07/business/china-pinduoduo-ecommerce.html)(2024-10-07)
+76. [American M2, Chinese M1?](https://wallstreetcn.com/articles/3681399)(2024-10-13)
 
 ### ddia
 ### 阅读与写作讲义
