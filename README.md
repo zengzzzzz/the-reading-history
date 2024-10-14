@@ -5,6 +5,7 @@
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
   - [From zero to one](#From-zero-to-one)
   - [Hackers And Painters](#Hackers-And-Painters)
+  - [不做告别](#不做告别)
 - [read](#read)
   - [article](#article)
   - [ddia](#ddia)
@@ -64,6 +65,9 @@
 - 2024-10-10 2
 - 2024-10-13 6
 - 2024-10-14 10
+
+### 不做告别
+- 2024-10-14 1
 
 ## read
 
