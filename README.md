@@ -3,9 +3,9 @@
 - [reading](#reading)
   - [the architecture of open source application](#the-architecture-of-open-source-application)
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
-  - [From zero to one](#From-zero-to-one)
-  - [Hackers And Painters](#Hackers-And-Painters)
-  - [不做告别](#不做告别)
+  - [如何有效阅读一本书](#如何有效阅读一本书)
+  - [少数派报告]($少数派报告)
+  - [信贷业务全流程深度剖析](#信贷业务全流程深度剖析)
 - [read](#read)
   - [article](#article)
   - [ddia](#ddia)
@@ -39,6 +39,9 @@
   - [rich Dad and poor Dad](#rich-Dad-and-poor-Dad)
   - [Poor Charlie's Dictionary](#Poor-Charlie-s-Dictionary)
   - [Remote](#Remote)
+  - [From zero to one](#From-zero-to-one)
+  - [Hackers And Painters](#Hackers-And-Painters)
+  - [不做告别](#不做告别)
 - [unread](#unread)
   - [article](#article-1)
   - [算法导论](#算法导论)
@@ -54,22 +57,13 @@
 
 ### the architecture of open source application
 
-### the Lunix of high performance server programming、
+### the Lunix of high performance server programming
 
-### From zero to one
-- 2024-10-06 10
-- 2024-10-07 end
+### 如何有效阅读一本书
 
-### Hackers And Painters
-- 2024-10-06 1
-- 2024-10-10 2
-- 2024-10-13 6
-- 2024-10-14 10
-- 2024-10-17 13
+### 少数派报告
 
-### 不做告别
-- 2024-10-14 1
-- 2024-10-15 end
+### 信贷业务全流程深度剖析
 
 ## read
 
@@ -373,7 +367,23 @@
 ### Remote
 - 2024-09-23 1
 - 2924-10-02 3
-- 2024-10-03 end 
+- 2024-10-03 end
+
+### From zero to one
+- 2024-10-06 10
+- 2024-10-07 end
+
+### Hackers And Painters
+- 2024-10-06 1
+- 2024-10-10 2
+- 2024-10-13 6
+- 2024-10-14 10
+- 2024-10-17 13
+- 2024-10-20 end
+
+### 不做告别
+- 2024-10-14 1
+- 2024-10-15 end
 
 ## unread
 
