@@ -4,8 +4,9 @@
   - [the architecture of open source application](#the-architecture-of-open-source-application)
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
   - [如何有效阅读一本书](#如何有效阅读一本书)
-  - [少数派报告]($少数派报告)
   - [信贷业务全流程深度剖析](#信贷业务全流程深度剖析)
+  - [Mind Over Markets](#Mind-Over-Markets)
+  - [股票大作手回忆录](#股票大作手回忆录)
 - [read](#read)
   - [article](#article)
   - [ddia](#ddia)
@@ -42,6 +43,7 @@
   - [From zero to one](#From-zero-to-one)
   - [Hackers And Painters](#Hackers-And-Painters)
   - [不做告别](#不做告别)
+  - [少数派报告](#少数派报告)
 - [unread](#unread)
   - [article](#article-1)
   - [算法导论](#算法导论)
@@ -61,9 +63,12 @@
 
 ### 如何有效阅读一本书
 
-### 少数派报告
-
 ### 信贷业务全流程深度剖析
+- 2024-11-02 1
+
+### Mind Over Markets
+
+### 股票大作手回忆录
 
 ## read
 
@@ -385,6 +390,10 @@
 ### 不做告别
 - 2024-10-14 1
 - 2024-10-15 end
+
+### 少数派报告
+- 2024-10-26 1
+- 2024-11-02 end
 
 ## unread
 
