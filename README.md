@@ -44,6 +44,7 @@
   - [Hackers And Painters](#Hackers-And-Painters)
   - [不做告别](#不做告别)
   - [少数派报告](#少数派报告)
+  - [中国历代政治得失](#中国历代政治得失)
 - [unread](#unread)
   - [article](#article-1)
   - [算法导论](#算法导论)
@@ -65,6 +66,9 @@
 
 ### 信贷业务全流程深度剖析
 - 2024-11-02 1
+  
+### 中国历代政治得失
+- 2024-11-04 1
 
 ### Mind Over Markets
 
