@@ -67,11 +67,6 @@
 ### 信贷业务全流程深度剖析
 - 2024-11-02 1
 - 2024-11-22 2
-  
-### 中国历代政治得失
-- 2024-11-04 1
-- 2024-11-12 3
-- 2024-11-20 end
 
 ### Mind Over Markets
 
@@ -160,6 +155,7 @@
 76. [American M2, Chinese M1?](https://wallstreetcn.com/articles/3681399)(2024-10-13)
 77. [Github Spark](https://githubnext.com/projects/github-spark)(2024-10-31)
 78. [通过Google挖掘细分市场的一个案例](https://mp.weixin.qq.com/s/cXa6Rwiet5gN8bSe-h4QNw)(2024-11-14)
+79. [郭晓力-前幕布联合创始人，现原则科技CEO，70+提问，2万多字的人生和创业哲学](https://mp.weixin.qq.com/s/p_CydNWwE3YEPx_TXayYXw)(2024-11-25)
 
 ### ddia
 ### 阅读与写作讲义
@@ -403,6 +399,11 @@
 ### 少数派报告
 - 2024-10-26 1
 - 2024-11-02 end
+
+### 中国历代政治得失
+- 2024-11-04 1
+- 2024-11-12 3
+- 2024-11-20 end
 
 ## unread
 
