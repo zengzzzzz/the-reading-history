@@ -162,6 +162,7 @@
 77. [Github Spark](https://githubnext.com/projects/github-spark)(2024-10-31)
 78. [通过Google挖掘细分市场的一个案例](https://mp.weixin.qq.com/s/cXa6Rwiet5gN8bSe-h4QNw)(2024-11-14)
 79. [郭晓力-前幕布联合创始人，现原则科技CEO，70+提问，2万多字的人生和创业哲学](https://mp.weixin.qq.com/s/p_CydNWwE3YEPx_TXayYXw)(2024-11-25)
+80. [WSJ 2023](https://www.wsj.com/articles/%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5-2024%E5%B9%B4%E7%83%AD%E7%82%B9%E6%96%B0%E9%97%BB%E6%B1%87%E6%80%BB-%E6%88%98%E4%BA%89-%E5%A4%A7%E9%80%89-ai-d112869b)(2024-12-18)
 
 ### ddia
 ### 阅读与写作讲义
