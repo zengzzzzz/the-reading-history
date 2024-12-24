@@ -1,13 +1,12 @@
-![image](https://github.com/user-attachments/assets/3f709467-f2ba-44fe-a3a9-08bbde020152)## 2023-05-07 - now
+## 2023-05-07 - now
 - [2023-05-07 - now](#2023-05-07---now)
 - [reading](#reading)
   - [the architecture of open source application](#the-architecture-of-open-source-application)
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
   - [如何有效阅读一本书](#如何有效阅读一本书)
-  - [信贷业务全流程深度剖析](#信贷业务全流程深度剖析)
   - [Mind Over Markets](#Mind-Over-Markets)
   - [股票大作手回忆录](#股票大作手回忆录)
-  - [人人都是产品经理1.0](#人人都是产品经理1.0)
+  - [人人都是产品经理2.0](#人人都是产品经理2.0)
 - [read](#read)
   - [article](#article)
   - [ddia](#ddia)
@@ -46,6 +45,8 @@
   - [不做告别](#不做告别)
   - [少数派报告](#少数派报告)
   - [中国历代政治得失](#中国历代政治得失)
+  - [人人都是产品经理1.0](#人人都是产品经理1.0)
+  - [信贷业务全流程深度剖析](#信贷业务全流程深度剖析)
 - [unread](#unread)
   - [article](#article-1)
   - [算法导论](#算法导论)
@@ -65,15 +66,8 @@
 
 ### 如何有效阅读一本书
 
-### 人人都是产品经理1.0
-- 2024-12-15 3
-- 2024-12-20 5
-
-### 信贷业务全流程深度剖析
-- 2024-11-02 1
-- 2024-11-22 2
-- 2024-12-10 8
-- 2024-12-14 end
+### 人人都是产品经理2.0
+- 2024-12-24 2
 
 ### Mind Over Markets
 
@@ -415,6 +409,17 @@
 - 2024-11-04 1
 - 2024-11-12 3
 - 2024-11-20 end
+
+### 人人都是产品经理1.0
+- 2024-12-15 3
+- 2024-12-20 5
+- 2024-12-23 end
+
+### 信贷业务全流程深度剖析
+- 2024-11-02 1
+- 2024-11-22 2
+- 2024-12-10 8
+- 2024-12-14 end
 
 ## unread
 
