@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/bba4a288-685e-4afa-8b63-e8c9fbbc793a)## 2023-05-07 - now
-- [2023-05-07 - now](#2023-05-07---now)
+## 2023-05-07 - now
 - [reading](#reading)
   - [the architecture of open source application](#the-architecture-of-open-source-application)
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
