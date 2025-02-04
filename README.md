@@ -1,12 +1,11 @@
-## 2023-05-07 - now
+![image](https://github.com/user-attachments/assets/bba4a288-685e-4afa-8b63-e8c9fbbc793a)## 2023-05-07 - now
 - [2023-05-07 - now](#2023-05-07---now)
 - [reading](#reading)
   - [the architecture of open source application](#the-architecture-of-open-source-application)
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
   - [Mind Over Markets](#Mind-Over-Markets)
   - [股票大作手回忆录](#股票大作手回忆录)
-  - [人人都是产品经理2.0](#人人都是产品经理2.0)
-  - [有效学习](#有效学习)
+  - [香帅金融学讲义](#香帅金融学讲义)
 - [read](#read)
   - [article](#article)
   - [ddia](#ddia)
@@ -48,6 +47,8 @@
   - [人人都是产品经理1.0](#人人都是产品经理1.0)
   - [信贷业务全流程深度剖析](#信贷业务全流程深度剖析)
   - [如何有效阅读一本书](#如何有效阅读一本书)
+  - [有效学习](#有效学习)
+  - [人人都是产品经理2.0](#人人都是产品经理2.0)
 - [unread](#unread)
   - [article](#article-1)
   - [算法导论](#算法导论)
@@ -65,20 +66,13 @@
 
 ### the Lunix of high performance server programming
 
-### 人人都是产品经理2.0
-- 2024-12-24 2
-- 2025-01-05 5
-- 2025-01-20 7
-- 2025-01-24 8
-- 2025-01-26 end
-
 ### Mind Over Markets
 
 ### 股票大作手回忆录
 - 2024-11-21 1
 
-### 有效学习
-- 2025-01-09
+### 香帅金融学讲义
+- 2025-02-04 6
 
 ## read
 
@@ -432,6 +426,16 @@
 
 ### 如何有效阅读一本书
 - 2024-12-25 end
+
+### 有效学习
+- 2025-01-09 end
+
+### 人人都是产品经理2.0
+- 2024-12-24 2
+- 2025-01-05 5
+- 2025-01-20 7
+- 2025-01-24 8
+- 2025-01-26 end
 
 ## unread
 
