@@ -4,7 +4,7 @@
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
   - [Mind Over Markets](#Mind-Over-Markets)
   - [股票大作手回忆录](#股票大作手回忆录)
-  - [香帅金融学讲义](#香帅金融学讲义)
+  - [置身事内](#置身事内)
 - [read](#read)
   - [article](#article)
   - [ddia](#ddia)
@@ -48,6 +48,7 @@
   - [如何有效阅读一本书](#如何有效阅读一本书)
   - [有效学习](#有效学习)
   - [人人都是产品经理2.0](#人人都是产品经理2.0)
+  - [香帅金融学讲义](#香帅金融学讲义)
 - [unread](#unread)
   - [article](#article-1)
   - [算法导论](#算法导论)
@@ -70,8 +71,8 @@
 ### 股票大作手回忆录
 - 2024-11-21 1
 
-### 香帅金融学讲义
-- 2025-02-04 6
+### 置身事内
+- 2025-02-18 1
 
 ## read
 
@@ -435,6 +436,10 @@
 - 2025-01-20 7
 - 2025-01-24 8
 - 2025-01-26 end
+
+### 香帅金融学讲义
+- 2025-02-04 6
+- 2025-02-18 end
 
 ## unread
 
