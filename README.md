@@ -4,7 +4,6 @@
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
   - [Mind Over Markets](#Mind-Over-Markets)
   - [股票大作手回忆录](#股票大作手回忆录)
-  - [置身事内](#置身事内)
 - [read](#read)
   - [article](#article)
   - [ddia](#ddia)
@@ -49,6 +48,7 @@
   - [有效学习](#有效学习)
   - [人人都是产品经理2.0](#人人都是产品经理2.0)
   - [香帅金融学讲义](#香帅金融学讲义)
+  - [置身事内](#置身事内)
 - [unread](#unread)
   - [article](#article-1)
   - [算法导论](#算法导论)
@@ -70,10 +70,6 @@
 
 ### 股票大作手回忆录
 - 2024-11-21 1
-
-### 置身事内
-- 2025-02-18 1
-- 2025-02-24 7
 
 ## read
 
@@ -165,6 +161,7 @@
 84. [股和债两者关联](https://www.futunn.com/learn/detail-understanding-the-relationship-between-the-stock-market-and-the-bond-market-88969-231162042)
 85. [Portfolio Margin: Overview, How it Works](https://www.investopedia.com/terms/p/portfolio-margin.asp)(2025-01-07)
 86. [段永平 2025 浙大访谈](https://wallstreetcn.com/articles/3738408)(2025-01-08)
+87. [阿根廷债务危机](http://ilas.cass.cn/xschengguo/xslunwen/201902/W020190219498051895955.pdf)(2025-03-01)
 
 ### ddia
 ### 阅读与写作讲义
@@ -441,6 +438,11 @@
 ### 香帅金融学讲义
 - 2025-02-04 6
 - 2025-02-18 end
+
+### 置身事内
+- 2025-02-18 1
+- 2025-02-24 7
+- 2025-02-27 end
 
 ## unread
 
