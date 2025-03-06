@@ -163,6 +163,7 @@
 86. [段永平 2025 浙大访谈](https://wallstreetcn.com/articles/3738408)(2025-01-08)
 87. [阿根廷债务危机](http://ilas.cass.cn/xschengguo/xslunwen/201902/W020190219498051895955.pdf)(2025-03-01)
 88. [Robotics for software engineers](https://newsletter.pragmaticengineer.com/p/robotics?utm_source=post-email-title&publication_id=458709&post_id=157894470&utm_campaign=email-post-title&isFreemail=true&r=257u8n&triedRedirect=true&utm_medium=email)(2025-03-06)
+89. [Trimodal Nature of Tech Compensation in the US, UK and India](https://newsletter.pragmaticengineer.com/p/trimodal?utm_campaign=email-half-post&r=257u8n&utm_source=substack&utm_medium=email)(2025-03-06)
 
 ### ddia
 ### 阅读与写作讲义
