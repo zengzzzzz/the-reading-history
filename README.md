@@ -4,6 +4,8 @@
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
   - [Mind Over Markets](#Mind-Over-Markets)
   - [股票大作手回忆录](#股票大作手回忆录)
+  - [大数据之路 阿里巴巴大数据实践](#大数据之路-阿里巴巴大数据实践)
+  - [boao](#boao)
 - [read](#read)
   - [article](#article)
   - [ddia](#ddia)
@@ -73,10 +75,11 @@
 ### 股票大作手回忆录
 - 2024-11-21 1
 
-### 原则
-- 2024-06-21 end
+### 大数据之路 阿里巴巴大数据实践
+- 2025-07-15 3
 
-### 经济学原理
+### boao
+- 2025-07-15 2019年博鳌论坛亚洲竞争力报告
 
 ## read
 
@@ -452,6 +455,13 @@
 - 2025-02-18 1
 - 2025-02-24 7
 - 2025-02-27 end
+
+### 原则
+- 2025-06-21 end
+
+### 经济学原理
+-  2025-07-14 end
+
 
 ## unread
 
