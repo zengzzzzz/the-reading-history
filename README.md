@@ -1,4 +1,4 @@
-## 2023-05-07 - now
+## 2023-05-07 - 2025-07 （书单及阅读目录暂不在本处进行后续更新）
 - [reading](#reading)
   - [the architecture of open source application](#the-architecture-of-open-source-application)
   - [the Lunix of high performance server programming](#the-Lunix-of-high-performance-server-programming)
